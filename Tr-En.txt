@@ -1,0 +1,1144 @@
+<OrgQuestion ORGQ_ID="Q388">
+    <OrgQSubject>HOW TO APPLY AND OBTAIN VISAS TO UK AND SPAIN</OrgQSubject>
+    <tr_OrgQSubject>چگونگی اعمال و دریافت ویزا به بریتانیا و اسپانیا</tr_OrgQSubject>
+    <PE_OrgQSubject>چگونه برای بریتانیا و اسپانیا درخواست دهیم و ویزا بگیریم؟</PE_OrgQSubject>
+    <MT_EN_OrgQSubject>How to apply for the UK and Spain and get a visa?</MT_EN_OrgQSubject>
+    <OrgQBody>Can someone suggest a link or explain how to obtain visas for family hoping to go on vacation to The UK and Spain? We are bona fide residents in Qatar by the way. Thank you</OrgQBody>
+    <tr_OrgQBody>آیا کسی می تواند یک پیوند یا توضیح دهد که چگونه برای گرفتن خانواده ویزا برای امید به رفتن به تعطیلات به انگلستان و اسپانیا، توضیح دهد؟ به هر حال ما در قطر ساکن هستیم. متشکرم</tr_OrgQBody>
+    <PE_OrgQBody>آیا کسی می تواند یک پیوند پیشنهاد دهد یا توضیح دهد که چگونه برای خانواده ویزا بگیریم به امید رفتن به انگلستان و اسپانیا در تعطیلات؟ ضمناً ما ساکنین واجد شرایط در قطر هستیم. متشکرم</PE_OrgQBody>
+    <MT_EN_OrgQBody>Can anyone suggest a bond or explain how to get a visa for the family, hoping to go to England and Spain on vacation? Meanwhile, we are eligible residents in Qatar. Thank you</MT_EN_OrgQBody>
+</OrgQuestion>
+
+
+
+<OrgQuestion ORGQ_ID="Q389">
+    <OrgQSubject>FAMIL VISA</OrgQSubject>
+    <tr_OrgQSubject>خانواده ویسا</tr_OrgQSubject>
+    <PE_OrgQSubject>ویزای خانوادگی</PE_OrgQSubject>
+    <MT_EN_OrgQSubject>Family visa</MT_EN_OrgQSubject>
+    <OrgQBody>My husband is trying to apply for a family visa ; for me. Can anybody show me a format of the RENT AGREEMENT needed for the same? Or advice on where to get the same..</OrgQBody>
+    <tr_OrgQBody>شوهرم در حال تلاش برای درخواست ویزای خانوادگی است. برای من. آیا کسی می تواند یک فرمت از قرارداد اجاره نامه مورد نیاز برای یکسان را نشان دهد؟ یا مشاوره در مورد اینکه در آن همان</tr_OrgQBody>
+    <PE_OrgQBody>شوهرم در حال تلاش برای درخواست ویزای خانوادگی است. برای من. آیا کسی می تواند یک قالب از قرارداد اجاره نامه مورد نیاز برای چنین چیزی را نشان دهد؟ یا مشاوره در مورد اینکه چنین چیزی را از کجا باید بگیرم...</PE_OrgQBody>
+    <MT_EN_OrgQBody>My husband is trying to apply for a family visa. for me. Can anyone present a template of the lease agreement required for such a thing? Or advice on where to get this from ...</MT_EN_OrgQBody>
+</OrgQuestion>
+
+
+
+<OrgQuestion ORGQ_ID="Q390">
+    <OrgQSubject>How do I give an NOC for my housemaid?</OrgQSubject>
+    <tr_OrgQSubject>چگونه می توانم یک NOC برای خانه ی من بفرستم؟</tr_OrgQSubject>
+    <PE_OrgQSubject>چگونه میتوانم برای خدمتکارم یک NOC بگیرم؟</PE_OrgQSubject>
+    <MT_EN_OrgQSubject>How can I get a NOC for my worker?</MT_EN_OrgQSubject>
+    <OrgQBody>Looking to release my housemaid; and give her an NOC. How do I do this; do I have to cancel her visa first or afterwards; does she have to be in the Qatar for this?</OrgQBody>
+    <tr_OrgQBody>نگاهی به آزاد کردن خانه من؛ و او NOC را بدهد من چطوری این کارو بکنم؛ آیا من باید ویزای خود را اول یا بعد از آن لغو کنم؟ آیا او برای این امر باید در قطر باشد؟</tr_OrgQBody>
+    <PE_OrgQBody>میخواهم خدمتکارم را اخراج کنم. و به او یک NOC بدهم. من چگونه این کار را انجام دهم؛ آیا باید اول ویزای او را لغو کنم یا باید بعد این کار را انجام دهم؛ آیا برای این، او باید در قطر باشد؟</PE_OrgQBody>
+    <MT_EN_OrgQBody>I want to expel my maid. And give him a NOC. How can I do this? Should I first cancel my visa, or should I do this later; should he be in Qatar for this?</MT_EN_OrgQBody>
+</OrgQuestion>
+
+
+
+<OrgQuestion ORGQ_ID="Q391">
+    <OrgQSubject>Sponsorship</OrgQSubject>
+    <tr_OrgQSubject>حمایت</tr_OrgQSubject>
+    <PE_OrgQSubject>حمایت</PE_OrgQSubject>
+    <MT_EN_OrgQSubject>Protection</MT_EN_OrgQSubject>
+    <OrgQBody>Is it possible to sponsor husband? Is possible; then can he able to work in Qatar?</OrgQBody>
+    <tr_OrgQBody>آیا می توان شوهر را حمایت کرد؟ ممکن است؛ پس او می تواند در قطر کار کند؟</tr_OrgQBody>
+    <PE_OrgQBody>آیا حمایت از شوهر امکان دارد؟ ممکن است؛ آنگاه آیا او میتواند در قطر کار کند؟</PE_OrgQBody>
+    <MT_EN_OrgQBody>Is it possible to support a husband? Maybe; can he then work in Qatar?</MT_EN_OrgQBody>
+</OrgQuestion>
+
+
+
+<OrgQuestion ORGQ_ID="Q392">
+    <OrgQSubject>Looking for a Tailor Shop</OrgQSubject>
+    <tr_OrgQSubject>در حال جستجو برای یک فروشگاه خیاطی</tr_OrgQSubject>
+    <PE_OrgQSubject>در حال جستجو برای یک فروشگاه خیاطی</PE_OrgQSubject>
+    <MT_EN_OrgQSubject>Looking for a sewing shop</MT_EN_OrgQSubject>
+    <OrgQBody>Morning! Anyone knows where to find a tailor shop near or within Al Sadd area; that sew or repairs trousers/jeans? For children's school upcoming parties. Any help would be great. Cheers!</OrgQBody>
+    <tr_OrgQBody>صبح! هر کس می داند کجا یک مغازه خیاطی در نزدیکی یا در منطقه الصاد پیدا کند؛ که دوختن یا تعمیر شلوار / شلوار جین؟ برای احزاب آینده مدرسه کودکان هرگونه کمکی میتواند ارزشمند باشد. به سلامتی!</tr_OrgQBody>
+    <PE_OrgQBody>صبح! آیا کسی میداند کجا میشود یک مغازه ی خیاطی، در نزدیکی یا داخل منطقه ی السد پیدا کرد؛ که شلوار و شلوار جین بدوزد و تعمیر کند؟ برای جشن های مدرسه ی بچه ها که در پیش روست. هر گونه کمکی بسیار ارزشمند است. با آرزوی سلامتی</PE_OrgQBody>
+    <MT_EN_OrgQBody>Morning! Does anyone know where to find a sewing shop near or inside al-Sadeh area that will repair and repair jeans and trousers? To celebrate the kids' school in advance. Any help is very valuable. With good wishes</MT_EN_OrgQBody>
+</OrgQuestion>
+
+
+
+<OrgQuestion ORGQ_ID="Q393">
+    <OrgQSubject>Did anydone did ielts recently in qatar</OrgQSubject>
+    <tr_OrgQSubject>آیا تا به حال اخیرا در Qatar لود کردید؟</tr_OrgQSubject>
+    <PE_OrgQSubject>آیا کسی اخیراً در قطر امتحان آیلتس گذرانده است؟</PE_OrgQSubject>
+    <MT_EN_OrgQSubject>Has someone recently passed an IELTS exam in Qatar?</MT_EN_OrgQSubject>
+    <OrgQBody>Hi frfs did any ine recently done the IELTS exam in Qatar. hw is the exam which center is better .lkz give ur valuable tips im going to write academic module in coming days</OrgQBody>
+    <tr_OrgQBody>سلام برادران عزیز آیا اخیرا امتحان IELTS در قطر انجام شده است. hw امتحان است که مرکز بهتر است. lkz راهنمایی های ارزشمند من دارم و میخواهم در چند روز آینده مدرک تحصیلی بنویسم</tr_OrgQBody>
+    <PE_OrgQBody>سلام frfs. آیا کسی اخیراً در قطر امتحان آیلتس گذرانده است. Hw امتحان است کدام مرکز بهتر است. Lkz کمک های ارزشمند خود را به من بدهید. من میخواهم در روز های پیش رو ماژول علمی ام را بنویسم.</PE_OrgQBody>
+    <MT_EN_OrgQBody>Hello frfs Has someone recently passed an IELTS exam in Qatar. Hw exam is which center is better. Lkz give me valuable help. I want to write my scientific module in the coming days.</MT_EN_OrgQBody>
+</OrgQuestion>
+
+
+
+<OrgQuestion ORGQ_ID="Q394">
+<OrgQSubject>Qatar Airways</OrgQSubject>
+<tr_OrgQSubject>هواپیمایی قطر</tr_OrgQSubject>
+<PE_OrgQSubject>هواپیمایی قطر</PE_OrgQSubject>
+<MT_EN_OrgQSubject>Qatar Airlines</MT_EN_OrgQSubject>
+<OrgQBody>How is the Qatar Airways direct flight experience from Doha To Nagpur; how is the flight & service experience; any body got the experienced; please share. Thanks</OrgQBody>
+<tr_OrgQBody>تجربه پرواز مستقیم قطر هوایی از دوحه تا ناگپور چطور است؟ تجربه پرواز و خدمات چطور است؟ هر جسمی تجربه داشت؛ لطفا به اشتراک بگذارید. با تشکر</tr_OrgQBody>
+<PE_OrgQBody>تجربه پرواز مستقیم از دوحه تا ناگپور با هواپیمایی قطر چگونه است؛ تجربه ی پرواز و خدمات چگونه است؛ هر کسی تجربه دارد؛ لطفا به اشتراک بگذارد. متشکرم</PE_OrgQBody>
+<MT_EN_OrgQBody>What is the direct flight experience from Doha to Nagpur with Qatar Airways; how is the flight experience and services; everyone has experience; please share. Thank you</MT_EN_OrgQBody>
+</OrgQuestion>
+
+
+
+<OrgQuestion ORGQ_ID="Q395">
+    <OrgQSubject>LOST cat</OrgQSubject>
+    <tr_OrgQSubject>گربه LOST</tr_OrgQSubject>
+    <PE_OrgQSubject>گربه ی گمشده</PE_OrgQSubject>
+    <MT_EN_OrgQSubject>Missing cat</MT_EN_OrgQSubject>
+    <OrgQBody>Dear friends; I have lost my cat near my house in South Duhail- Umm Lakhba. QR 500 for anyone who finds her. Please call 66414460 if found. Thanks</OrgQBody>
+    <tr_OrgQBody>دوستان عزیز؛ من گربه خود را در نزدیکی خانه خود در Duhail جنوبی - Umm Lakhba از دست داده ام. QR 500 برای هر کسی که او را پیدا می کند لطفا با شماره 66414460 تماس بگیرید. با تشکر</tr_OrgQBody>
+    <PE_OrgQBody>دوستان عزیز؛ من گربه ام را در نزدیکی خانه ی خود در دحیل جنوبی؛ ام لخبا گم کرده ام.  500 QR برای هر کسی که او را پیدا کند. اگر پیدا شد لطفاً با شماره 66414460 تماس بگیرد. متشکرم</PE_OrgQBody>
+    <MT_EN_OrgQBody>Dear friends; I have lost my cat near my home in South Dahlia; QR QR 500 for anyone who finds him. If found, please call 66414460. Thank you</MT_EN_OrgQBody>
+</OrgQuestion>
+
+
+
+<OrgQuestion ORGQ_ID="Q396">
+    <OrgQSubject>Anyone travelling from Dubai to Doha this week ?</OrgQSubject>
+    <tr_OrgQSubject>هر کسی که این هفته از دبی به دوحه سفر می کند؟</tr_OrgQSubject>
+    <PE_OrgQSubject>کسی این هفته از دوبی به دوحه سفر میکند؟</PE_OrgQSubject>
+    <MT_EN_OrgQSubject>Does anyone travel to Doha this week from Dubai?</MT_EN_OrgQSubject>
+    <OrgQBody>Anyone travelling from Dubai to Doha this week ? I need a small parcel to be brought over from Dubai to Doha. Kindly post you're mobile number. I will call</OrgQBody>
+    <tr_OrgQBody>هر کسی که این هفته از دبی به دوحه سفر می کند؟ من به یک بسته کوچک نیاز دارم که از دبی به دوحه برده شود. لطفا شماره تلفن همراه خود را ارسال کنید من تماس خواهم گرفت</tr_OrgQBody>
+    <PE_OrgQBody>آیا کسی این هفته از دوبی به دحه سفر میکند؟ من نیاز دارم که یک بسته ی کوچک از دوبی به دحه برده شود. از روی مهربانی شماره تلفن همراه خود را بفرستید. من تماس خواهم گرفت.</PE_OrgQBody>
+    <MT_EN_OrgQBody>Does anyone travel to Dubai from Dubai this week? I need to get a small package from Dubai. Kindly send your mobile number. I will call.</MT_EN_OrgQBody>
+</OrgQuestion>
+
+
+
+<OrgQuestion ORGQ_ID="Q397">
+    <OrgQSubject>food</OrgQSubject>
+    <tr_OrgQSubject>غذا</tr_OrgQSubject>
+    <PE_OrgQSubject>غذا</PE_OrgQSubject>
+    <MT_EN_OrgQSubject>Food</MT_EN_OrgQSubject>
+    <OrgQBody>Where you will get pani puri in qatar???</OrgQBody>
+    <tr_OrgQBody>از کجا می توان پانی پوری را در قندهار دریافت کرد؟</tr_OrgQBody>
+    <PE_OrgQBody>از کجا می توان پانی پوری را در قطر دریافت کرد؟</PE_OrgQBody>
+    <MT_EN_OrgQBody>Where can I get Panipuri in Qatar?</MT_EN_OrgQBody>
+</OrgQuestion>
+
+
+
+<OrgQuestion ORGQ_ID="Q398">
+    <OrgQSubject>family RP</OrgQSubject>
+    <tr_OrgQSubject>RP خانوادگی</tr_OrgQSubject>
+    <PE_OrgQSubject>RP خانوادگی</PE_OrgQSubject>
+    <MT_EN_OrgQSubject>Family RP</MT_EN_OrgQSubject>
+    <OrgQBody>i apply family rp 22nd and got a document receipt the same day; but till today i check onlin MOI. it still show there under review. any friends here have some idea? please thanks a lot</OrgQBody>
+    <tr_OrgQBody>من خانواده rp 22 را اعطا می کنم و در همان روز یک سند دریافت می کنم؛ اما تا امروز من MOIL را بررسی می کنم هنوز هم تحت بررسی است. هرکسی اینجا یک ایده دارد؟ لطفا خیلی ممنون</tr_OrgQBody>
+    <PE_OrgQBody>من 22ام درخواست rp خانوادگی دادم و همان روز یک مدرک رسید دریافت کردم؛ اما تا امروز که بصورت آنلاین MOI را چک میکنم. آن هنوز نشان میدهد که تحت بررسی است. هیچ یک از دوستان نظری دارد؟ لطفاً بسیار ممنونم</PE_OrgQBody>
+    <MT_EN_OrgQBody>I asked for family rp 22, and the same day I received a receipt, but by the time I check online for MOI. It still shows that it is being investigated. Does anyone have a comment? Thank you very much</MT_EN_OrgQBody>
+</OrgQuestion>
+
+
+
+<OrgQuestion ORGQ_ID="Q399">
+    <OrgQSubject>medical for visitor</OrgQSubject>
+    <tr_OrgQSubject>پزشکی برای بازدید کننده</tr_OrgQSubject>
+    <PE_OrgQSubject>پزشکی برای بازدید کننده</PE_OrgQSubject>
+    <MT_EN_OrgQSubject>Medical for the visitor</MT_EN_OrgQSubject>
+    <OrgQBody>is medical required if the visitor soon re-enter after the exit of 6 month</OrgQBody>
+    <tr_OrgQBody>پزشکی مورد نیاز است اگر بازدید کننده به زودی دوباره پس از خروج از 6 ماه وارد شوید</tr_OrgQBody>
+    <PE_OrgQBody>اگر بازدید کننده زود برگردد پس از 6 ماه از خروج آیا پزشکی مورد نیاز است</PE_OrgQBody>
+    <MT_EN_OrgQBody>If the visitor returns early, after 6 months of departure, is medical treatment required</MT_EN_OrgQBody>
+</OrgQuestion>
+
+
+
+<OrgQuestion ORGQ_ID="Q400">
+    <OrgQSubject>Is it easy to get bike license here?</OrgQSubject>
+    <tr_OrgQSubject>آیا در اینجا مجوز گرفتن دوچرخه آسان است؟</tr_OrgQSubject>
+    <PE_OrgQSubject>آیا در اینجا گرفتن مجوز دوچرخه آسان است؟</PE_OrgQSubject>
+    <MT_EN_OrgQSubject>Is it easy to get a bike license here?</MT_EN_OrgQSubject>
+    <OrgQBody>I have Indian bike license with me. And is there any service centre for Royal Enfield here?</OrgQBody>
+    <tr_OrgQBody>من مجوز دوچرخه هندی با من دارم و آیا مرکز خدمات Royal Enfield در اینجا وجود دارد؟</tr_OrgQBody>
+    <PE_OrgQBody>من با خودم مجوز دوچرخه ی هند را دارم. و آیا اینجا هیچ مرکز خدماتی برای royal enfield وجود دارد؟</PE_OrgQBody>
+    <MT_EN_OrgQBody>I have the license for my bike in India. And are there any service centers for royal enfield?</MT_EN_OrgQBody>
+</OrgQuestion>
+
+
+
+<OrgQuestion ORGQ_ID="Q401">
+    <OrgQSubject>UK visit visa bank statement</OrgQSubject>
+    <tr_OrgQSubject>بریتانیا از بیانیه بانک ویزا بازدید میکند</tr_OrgQSubject>
+    <PE_OrgQSubject>گزارش موجودی بانک برای ویزای توریستی بریتانیا</PE_OrgQSubject>
+    <MT_EN_OrgQSubject>Bank inventory report for British tourist visa</MT_EN_OrgQSubject>
+    <OrgQBody>Dear QLR; please advice me for UK visit visa bank statement required and how much balance they need at the time of visa application. thanks.</OrgQBody>
+    <tr_OrgQBody>QLR عزیز لطفا از مراجعه به دفتر ویزای ویزای بریتانیا مطلع شوید و در صورت درخواست ویزا مبلغی را که لازم دارید، بپردازید. با تشکر.</tr_OrgQBody>
+    <PE_OrgQBody>QLR عزیز، لطفا برای گزارش موجودی بانک درخواستی برای ویزای توریستی بریتانیا و مبلغ مورد نیاز در زمان درخواست ویزا من را راهنمایی کنید. </PE_OrgQBody>
+    <MT_EN_OrgQBody>Dear QLR, Please advise me to provide a bank account statement for a British tourist visa and the amount required at the time of applying for a visa.</MT_EN_OrgQBody>
+</OrgQuestion>
+
+
+
+<OrgQuestion ORGQ_ID="Q402">
+    <OrgQSubject>Exit permit for business visa</OrgQSubject>
+    <tr_OrgQSubject>مجوز خروج برای ویزای کسب و کار</tr_OrgQSubject>
+    <PE_OrgQSubject>مجوز خروج برای ویزای کسب و کار</PE_OrgQSubject>
+    <MT_EN_OrgQSubject>Exit visa for business visa</MT_EN_OrgQSubject>
+    <OrgQBody>I'm in Qatar with business visa for one month; do I need an exit permit if I want to leave before the end of the month ?</OrgQBody>
+    <tr_OrgQBody>من در قطر با یک ویزای تجاری برای یک ماه هستم؛ آیا می خواهم قبل از پایان ماه، به یک مجوز خروج نیاز دارم؟</tr_OrgQBody>
+    <PE_OrgQBody>من در قطر با یک ویزای کسب و کار برای یک ماه هستم؛ آیا من نیاز به مجوز خروج دارم اگر بخواهم قبل از پایان ماه خارج شوم؟</PE_OrgQBody>
+    <MT_EN_OrgQBody>I am in Qatar with a business visa for a month; Do I need to go out to leave if I want to leave before the end of the month?</MT_EN_OrgQBody>
+</OrgQuestion>
+
+
+
+<OrgQuestion ORGQ_ID="Q403">
+    <OrgQSubject>visa</OrgQSubject>
+    <tr_OrgQSubject>نمایش</tr_OrgQSubject>
+    <PE_OrgQSubject>ویزا</PE_OrgQSubject>
+    <MT_EN_OrgQSubject>Visa</MT_EN_OrgQSubject>
+    <OrgQBody>hi; i want to know if in my passport Qatar visa is not cancelled; can i able to travel other countries.</OrgQBody>
+    <tr_OrgQBody>سلام؛ من می خواهم بدانم اگر در ویزای قطر من لغو نشده باشد؛ آیا می توانم کشور های دیگر را سفر کنم؟</tr_OrgQBody>
+    <PE_OrgQBody>سلام‌؛ من می‌خواهم بدانم آیا در پاسپورت من، ویزای قطر لغو نشده است؛ آیا می‌توانم به کشور‌های دیگر سفر کنم؟</PE_OrgQBody>
+    <MT_EN_OrgQBody>Hello, I want to know if my passport has not been canceled in Qatar; can I travel to other countries?</MT_EN_OrgQBody>
+</OrgQuestion>
+
+
+
+<OrgQuestion ORGQ_ID="Q404">
+    <OrgQSubject>payment for the visa</OrgQSubject>
+    <tr_OrgQSubject>پرداخت ویزا</tr_OrgQSubject>
+    <PE_OrgQSubject>پرداخت برای ویزا</PE_OrgQSubject>
+    <MT_EN_OrgQSubject>Payment for a visa</MT_EN_OrgQSubject>
+    <OrgQBody>Hi; I need to know ;when the companies should do the payment for a work visa (QR 300.00).When they applying the visa or after approval of the visa?</OrgQBody>
+    <tr_OrgQBody>سلام؛ من باید بدانم؛ وقتی شرکت ها باید پرداخت ویزای کار را انجام دهند (QR 300.00). وقتی ویزای خود را اعمال می کنید یا بعد از تایید ویزا؟</tr_OrgQBody>
+    <PE_OrgQBody>سلام؛ من می‌خواهم بدانم؛ چه زمانی شرکت‌ها باید پرداخت را برای ویزای کار انجام دهند (QR 300.00). در هنگام اقدام برای ویزا یا بعد از تایید ویزا؟</PE_OrgQBody>
+    <MT_EN_OrgQBody>Hello, I want to know when companies should pay for a work visa (QR 300.00). When applying for a visa or after a visa has been approved?</MT_EN_OrgQBody>
+</OrgQuestion>
+
+
+
+<OrgQuestion ORGQ_ID="Q405">
+    <OrgQSubject>free accommodation</OrgQSubject>
+    <tr_OrgQSubject>مسکن رایگان</tr_OrgQSubject>
+    <PE_OrgQSubject>مسکن رایگان</PE_OrgQSubject>
+    <MT_EN_OrgQSubject>Free housing</MT_EN_OrgQSubject>
+    <OrgQBody>can someone tell me how an accomodation in qatar looks like? i mean do i share room with someone? thanks.</OrgQBody>
+    <tr_OrgQBody>آیا کسی می تواند به من بگویید چگونه یک محل اقامت در Qatar به نظر می رسد؟ منظورم این است که اتاق را با کسی تقسیم کنم؟ با تشکر.</tr_OrgQBody>
+    <PE_OrgQBody>آیا کسی می‌تواند به من بگوید یک محل اقامت در قطر چگونه به نظر می‌رسد؟ منظورم این است که آیا اتاق را باید با کسی تقسیم کنم؟ با تشکر.</PE_OrgQBody>
+    <MT_EN_OrgQBody>Can anyone tell me how a Qatari residence looks like? I mean, should I share the room with anyone? Thanks.</MT_EN_OrgQBody>
+</OrgQuestion>
+
+
+
+<OrgQuestion ORGQ_ID="Q406">
+    <OrgQSubject>Family Visit Visa Application</OrgQSubject>
+    <tr_OrgQSubject>درخواست خانواده برای بازدید</tr_OrgQSubject>
+    <PE_OrgQSubject>درخواست ویزای توریستی برای خانواده</PE_OrgQSubject>
+    <MT_EN_OrgQSubject>Applying for a tourist visa for the family</MT_EN_OrgQSubject>
+    <OrgQBody>Have any1 recently applied family visit visa; are they also asking electricity bill along with the house contract. Pls help. Thanks.</OrgQBody>
+    <tr_OrgQBody>هر یک از ویزای خانوادگی مجازی که اخیرا اعمال شده است، داشته باشید آنها همچنین با لایحه برق همراه با قرارداد خانه می پرسند. لطفا کمک کنید با تشکر.</tr_OrgQBody>
+    <PE_OrgQBody>آیا اخیرا کسی برای ویزای توریستی خانواده اقدام کرده است؟ آیا آنها درخواست قبض برق هم مانند قرارداد خانه دارند؟ لطفا کمک کنید. با تشکر.</PE_OrgQBody>
+    <MT_EN_OrgQBody>Has anyone recently applied for family travel visas? Are they asking for electricity bills like home contracts? please help. Thanks.</MT_EN_OrgQBody>
+</OrgQuestion>
+
+
+
+<OrgQuestion ORGQ_ID="Q407">
+    <OrgQSubject>Zoo</OrgQSubject>
+    <tr_OrgQSubject>باغ وحش</tr_OrgQSubject>
+    <PE_OrgQSubject>باغ وحش</PE_OrgQSubject>
+    <MT_EN_OrgQSubject>Zoo</MT_EN_OrgQSubject>
+    <OrgQBody>Any idea about a zoo near Al Zuvair; Jumila (spelling not correct)Near Dukhan;</OrgQBody>
+    <tr_OrgQBody>هر ایده ای درباره یک باغ وحش در نزدیکی الزوویر؛ Jumila (املایی درست نیست) نزدیک دوخان؛</tr_OrgQBody>
+    <PE_OrgQBody>هر ایده ای درباره یک باغ وحش در نزدیکی الزوویر؛ Jumila (املایی درست نیست) نزدیک دوخان؛</PE_OrgQBody>
+    <MT_EN_OrgQBody>Any idea about a zoo near Al-Zawawir; Jumila (not spelled correctly) near Dukhan;</MT_EN_OrgQBody>
+</OrgQuestion>
+
+
+
+<OrgQuestion ORGQ_ID="Q408">
+    <OrgQSubject>How many days to getting Qatar ID</OrgQSubject>
+    <tr_OrgQSubject>چندین روز برای دریافت قطر ID</tr_OrgQSubject>
+    <PE_OrgQSubject>چندین روز برای دریافت قطر ID</PE_OrgQSubject>
+    <MT_EN_OrgQSubject>Several days to get Qatar ID</MT_EN_OrgQSubject>
+    <OrgQBody>My medical is booked on 10 January 2016. my visa is company accountant visa. currently our PRO went to home country. please tell after completion of my medical how many days wait for Qatar ID.</OrgQBody>
+    <tr_OrgQBody>پزشکی من در تاریخ 10 ژانویه 2016 رزرو شده است. ویزای من ویزای شرکت حسابداری است. در حال حاضر PRO ما به کشور اصلی رفته است. لطفا پس از اتمام پزشکی من چند روز منتظر ID قطر باشید.</tr_OrgQBody>
+    <PE_OrgQBody>پزشکی من در تاریخ 10 ژانویه 2016 رزرو شده است. ویزای من ویزای شرکت حسابداری است. در حال حاضر PRO ما به کشورش رفته است. لطفا بگویید که بعد از اتمام پزشکی چند روز منظر ID قطر باشم.</PE_OrgQBody>
+    <MT_EN_OrgQBody>My medical appointment is reserved on January 10, 2016. My visa is an accounting company visa. Currently, our PRO has gone to our country. Please tell me how many days after the completion of the medical exam I have Qatar ID.</MT_EN_OrgQBody>
+</OrgQuestion>
+
+
+
+<OrgQuestion ORGQ_ID="Q409">
+    <OrgQSubject>Temporary licence for Qatari Driving license holder</OrgQSubject>
+    <tr_OrgQSubject>مجوز موقت برای دارنده مجوز رانندگی قطری</tr_OrgQSubject>
+    <PE_OrgQSubject>گواهی‌نامه موقت برای دارنده مجوز رانندگی قطری</PE_OrgQSubject>
+    <MT_EN_OrgQSubject>Temporary License for Qatari Driving License</MT_EN_OrgQSubject>
+    <OrgQBody>Could you please anybody help me. I have a valid Qatari Driving License; cancelled my RP earlier and now came back on business visa; did i have to take temporary license ??</OrgQBody>
+    <tr_OrgQBody>می توانید لطفا کسی به من کمک کند من مجوز رانندگی قطری معتبر دارم RP من قبلا لغو شده و در حال حاضر بر روی ویزای کسب و کار بازگشته است. مجبور شدم مجوز موقت بگیرم؟</tr_OrgQBody>
+    <PE_OrgQBody>می توانید لطفا کسی به من کمک کند من مجوز رانندگی قطری معتبر دارم RP من قبلا لغو شده و در حال حاضر بر روی ویزای کسب و کار بازگشته است. آیا مجبورم گواهی‌نامه موقت بگیرم؟</PE_OrgQBody>
+    <MT_EN_OrgQBody>Can someone please help me? I have a valid Qatari driving license. RP I have already been canceled and has already returned to a business visa. Do I have to take an interim certificate?</MT_EN_OrgQBody>
+</OrgQuestion>
+
+
+
+<OrgQuestion ORGQ_ID="Q410">
+    <OrgQSubject>Police report -Srilanka</OrgQSubject>
+    <tr_OrgQSubject>گزارش پلیس -Srilanka</tr_OrgQSubject>
+    <PE_OrgQSubject>گزارش پلیس</PE_OrgQSubject>
+    <MT_EN_OrgQSubject>police report</MT_EN_OrgQSubject>
+    <OrgQBody>Wich document should i need submit the srilankan embessy in qatar for get the police report? and how much charge ? Advice please.</OrgQBody>
+    <tr_OrgQBody>کدام سند آیا باید سفارت سیراکان را در قطر برای دریافت گزارش پلیس ارسال کنم؟ و چقدر شارژ؟ مشاوره لطفا</tr_OrgQBody>
+    <PE_OrgQBody>کدام سند را باید برای سفارت سریلانکا در قطر برای دریافت گزارش پلیس ارسال کنم؟ و چقدر هزینه آن است؟ مشاوره لطفا</PE_OrgQBody>
+    <MT_EN_OrgQBody>What document should I send to the Sri Lankan embassy in Qatar to receive a police report? And how much does it cost? Advice please</MT_EN_OrgQBody>
+</OrgQuestion>
+
+
+
+<OrgQuestion ORGQ_ID="Q411">
+    <OrgQSubject>Family visa status</OrgQSubject>
+    <tr_OrgQSubject>وضعیت ویزای خانوادگی</tr_OrgQSubject>
+    <PE_OrgQSubject>وضعیت ویزای خانوادگی</PE_OrgQSubject>
+    <MT_EN_OrgQSubject>Family visa status</MT_EN_OrgQSubject>
+    <OrgQBody>Is it possible to apply family visa with as professional as Store Keeper? My salary is 12000 QAR</OrgQBody>
+    <tr_OrgQBody>آیا امکان پذیر است ویزای خانوادگی را به عنوان حرفه ای به عنوان نگهدارنده فروشگاه اعمال می شود؟ حقوق من 12000 QAR است</tr_OrgQBody>
+    <PE_OrgQBody>آیا امکان پذیر است که به عنوان یک صاحب فروشگاه حرفه‌ای برای ویزای خانوادگی اقدام کرد؟ حقوق من 12000 QAR است</PE_OrgQBody>
+    <MT_EN_OrgQBody>Is it possible to act as a professional shopkeeper for a family visa? My salary is 12,000 QAR</MT_EN_OrgQBody>
+</OrgQuestion>
+
+
+
+<OrgQuestion ORGQ_ID="Q412">
+<OrgQSubject>visit visa for my parents</OrgQSubject>
+<tr_OrgQSubject>ویزای پدر و مادرم را ببینید</tr_OrgQSubject>
+<PE_OrgQSubject>ویزای توریستی برای پدر و مادر</PE_OrgQSubject>
+<MT_EN_OrgQSubject>Tourist visa for parents</MT_EN_OrgQSubject>
+<OrgQBody>I want to issue a visit visa for my parents but I heard there is an age limit & the visa may get rejected due to that! please advise</OrgQBody>
+<tr_OrgQBody>من می خواهم یک ویزای سفر برای والدینم بدهم، اما من شنیدم محدودیت سن وجود دارد و ویزا ممکن است رد شود! لطفا راهنمایی کنید</tr_OrgQBody>
+<PE_OrgQBody>من می‌خواهم برای پدر و مادرم ویزای توریستی درخواست بدهم اما من شنیدم محدودیدت سن وجود دارد و ویزا ممکن است به دلیل آن رد شود! لطفا راهنمایی کنید</PE_OrgQBody>
+<MT_EN_OrgQBody>I want to apply for a visa to my parents but I heard that there is a limited age and the visa may be refused! please guide me</MT_EN_OrgQBody>
+</OrgQuestion>
+
+
+
+<OrgQuestion ORGQ_ID="Q413">
+    <OrgQSubject>Weight loss</OrgQSubject>
+    <tr_OrgQSubject>کاهش وزن</tr_OrgQSubject>
+    <PE_OrgQSubject>کاهش وزن</PE_OrgQSubject>
+    <MT_EN_OrgQSubject>Weight Loss</MT_EN_OrgQSubject>
+    <OrgQBody>Hi all!I am wondering if anyone can tell me if there are any weight loss clubs like weight watchers or slimming world in Doha? I am getting a bit desperate and can't seem to find anything useful!</OrgQBody>
+    <tr_OrgQBody>سلام، من تعجب می کنم که آیا کسی می تواند به من بگوید که آیا در باشگاه هایی مانند Weight Watchers و یا دنیای لاغری در دوحه وجود دارد؟ من کمی ناامید میشوم و نمی توانم چیزی مفیدی پیدا کنم</tr_OrgQBody>
+    <PE_OrgQBody>سلام به همه! من تعجب می‌کنم که آیا کسی می‌تواند به من بگوید که آیا باشگاه‌های کاهش وزن مانند weight watchers یا slimming world در دوحه وجود دارند؟ من کمی ناامید می‌شوم و به نظر نمی‌رسد که بتوانم چیز مفیدی پیدا کنم!</PE_OrgQBody>
+    <MT_EN_OrgQBody>Hello to all! I wonder if anyone can tell me if there are weight loss watchers in Doha, such as weight watchers or slimming worlds? I'm a little disappointed and do not seem to be able to find anything useful!</MT_EN_OrgQBody>
+</OrgQuestion>
+
+
+
+<OrgQuestion ORGQ_ID="Q414">
+    <OrgQSubject>circumcision In qatar</OrgQSubject>
+    <tr_OrgQSubject>ختنه در قندهار</tr_OrgQSubject>
+    <PE_OrgQSubject>ختنه در قطر</PE_OrgQSubject>
+    <MT_EN_OrgQSubject>Circumcision in Qatar</MT_EN_OrgQSubject>
+    <OrgQBody>Hi; Can any 1 guide the procedure for circumcision in qatar for babies and the cost associates with it. P.s-- baby born in home country and in permanent visa in qatar</OrgQBody>
+    <tr_OrgQBody>سلام؛ آیا می توانم 1 دستورالعمل برای ختنه نوزادان را در قارار و هزینه های مرتبط با آن داشته باشم. P.s-- نوزاد متولد کشور خانه و در ویزای دائمی در قطر</tr_OrgQBody>
+    <PE_OrgQBody>سلام؛ کسی می‌تواند در رابطه با دستورالعمل ختنه نوزادان در قطر و هزینه آن راهنمایی کند؟ P.s-- نوزاد متولد شده در کشورش و ویزای دائمی در قطر</PE_OrgQBody>
+    <MT_EN_OrgQBody>Hello, can anyone guide the circumcision of babies in Qatar and its cost? P.s-- A baby born in her country and a permanent visa in Qatar</MT_EN_OrgQBody>
+</OrgQuestion>
+
+
+
+<OrgQuestion ORGQ_ID="Q415">
+    <OrgQSubject>medical</OrgQSubject>
+    <tr_OrgQSubject>پزشکی</tr_OrgQSubject>
+    <PE_OrgQSubject>پزشکی</PE_OrgQSubject>
+    <MT_EN_OrgQSubject>medical</MT_EN_OrgQSubject>
+    <OrgQBody>I and my family have recently moved to Qatar..could anyone recommend a good paediatrician please.</OrgQBody>
+    <tr_OrgQBody>من و خانواده ام به تازگی به قطر نقل مکان کرده اند .. می توانم هر کسی توصیه یک پزشک متخصص اطفال لطفا.</tr_OrgQBody>
+    <PE_OrgQBody>من و خانواده‌ام به تازگی به قطر نقل مکان کرده‌ایم..آیا کسی می‌تواند یک متخصص اطفال خوب پیشنهاد دهد؟</PE_OrgQBody>
+    <MT_EN_OrgQBody>I and my family recently moved to Qatar. Can anyone suggest a good pediatrician?</MT_EN_OrgQBody>
+</OrgQuestion>
+
+
+
+<OrgQuestion ORGQ_ID="Q416">
+    <OrgQSubject>visit visa for indian female</OrgQSubject>
+    <tr_OrgQSubject>ویزای زن و مرد هند را ببینید</tr_OrgQSubject>
+    <PE_OrgQSubject>ویزای توریستی برا زن هندی</PE_OrgQSubject>
+    <MT_EN_OrgQSubject>Tourist visa for Indian woman</MT_EN_OrgQSubject>
+    <OrgQBody>Does anyone know where I can get a visit visa for female indian? Any reply would be appreciated. thanks and regards.</OrgQBody>
+    <tr_OrgQBody>آیا کسی می داند کجا می توانم برای ویزای زن ویزای بازدید کنم؟ هر پاسخی قدردانی خواهد شد با تشکر و احترام.</tr_OrgQBody>
+    <PE_OrgQBody>آیا کسی می‌داند کجا می‌توانم ویزای توریستی برای زن هندی بگیرم؟ هر پاسخی قدردانی خواهد شد. با تشکر و احترام.</PE_OrgQBody>
+    <MT_EN_OrgQBody>Does anyone know where I can get a tourist visa for an Indian woman? Any answer will be appreciated. Thanks &amp; Regards.</MT_EN_OrgQBody>
+</OrgQuestion>
+
+
+
+<OrgQuestion ORGQ_ID="Q417">
+    <OrgQSubject>Mandoob visa and Family status</OrgQSubject>
+    <tr_OrgQSubject>ویزای ماندووب و وضعیت خانوادگی</tr_OrgQSubject>
+    <PE_OrgQSubject>ویزای ماندووب و وضعیت خانوادگی</PE_OrgQSubject>
+    <MT_EN_OrgQSubject>Mandov's visa and family status</MT_EN_OrgQSubject>
+    <OrgQBody>Does MANDOOB visa can get family visa?</OrgQBody>
+    <tr_OrgQBody>آیا ویزای MANDOOB می تواند ویزای خانوادگی بگیرد؟</tr_OrgQBody>
+    <PE_OrgQBody>آیا دارنده ویزای ماندووب می تواند ویزای خانوادگی بگیرد؟</PE_OrgQBody>
+    <MT_EN_OrgQBody>Is the holder of Mandurob visa can take a family visa?</MT_EN_OrgQBody>
+</OrgQuestion>
+
+
+
+<OrgQuestion ORGQ_ID="Q418">
+    <OrgQSubject>Is there any age limit for Business visa ?</OrgQSubject>
+    <tr_OrgQSubject>آیا محدودیت سن برای ویزای کسب و کار وجود دارد؟</tr_OrgQSubject>
+    <PE_OrgQSubject>آیا محدودیت سن برای ویزای کسب و کار وجود دارد؟</PE_OrgQSubject>
+    <MT_EN_OrgQSubject>Is there an age limit for a business visa?</MT_EN_OrgQSubject>
+    <OrgQBody>Is there any age limit for business visa? i want to bring my son in business visa he is 17 years old only.</OrgQBody>
+    <tr_OrgQBody>آیا محدودیت سن برای ویزای کسب و کار وجود دارد؟ من می خواهم پسرم را در کسب و کار ویزا بشمارم، او فقط 17 سال دارد.</tr_OrgQBody>
+    <PE_OrgQBody>آیا محدودیت سن برای ویزای کسب و کار وجود دارد؟ من می خواهم پسرم را با ویزای کسب و کار بیارم او فقط 17 سال دارد.</PE_OrgQBody>
+    <MT_EN_OrgQBody>Is there an age limit for a business visa? I want to bring my son with a business visa. He's just 17 years old.</MT_EN_OrgQBody>
+</OrgQuestion>
+
+
+
+<OrgQuestion ORGQ_ID="Q419">
+    <OrgQSubject>what is the best and Safe online account to Receive Money ??????</OrgQSubject>
+    <tr_OrgQSubject>بهترین و ایمن ترین حساب آنلاین برای دریافت پول چیست؟</tr_OrgQSubject>
+    <PE_OrgQSubject>بهترین و ایمن ترین حساب آنلاین برای دریافت پول چیست؟</PE_OrgQSubject>
+    <MT_EN_OrgQSubject>What is the best and safest online account to receive money?</MT_EN_OrgQSubject>
+    <OrgQBody>what is the best and Safe online account to Receive Money ?????? Please advise....</OrgQBody>
+    <tr_OrgQBody>بهترین و ایمن ترین حساب آنلاین برای دریافت پول چیست؟ لطفا توصیه ....</tr_OrgQBody>
+    <PE_OrgQBody>بهترین و ایمن ترین حساب آنلاین برای دریافت پول چیست؟ لطفا راهنمایی کنید ....</PE_OrgQBody>
+    <MT_EN_OrgQBody>What is the best and safest online account to receive money? please guide me ....</MT_EN_OrgQBody>
+</OrgQuestion>
+
+
+
+<OrgQuestion ORGQ_ID="Q420">
+    <OrgQSubject>Visit visa requirements</OrgQSubject>
+    <tr_OrgQSubject>درخواست ویزا را ببینید</tr_OrgQSubject>
+    <PE_OrgQSubject>شرایط ویزای توریستی</PE_OrgQSubject>
+    <MT_EN_OrgQSubject>Tourist visa conditions</MT_EN_OrgQSubject>
+    <OrgQBody>Is there any salary limit for bringing spouse on visit visa?</OrgQBody>
+    <tr_OrgQBody>آیا محدودیت حقوق و دستمزد برای اخذ ویزا برای همسر شدن وجود دارد؟</tr_OrgQBody>
+    <PE_OrgQBody>آیا محدودیت حقوق برای آوردن همسر با ویزای توریستی وجود دارد؟</PE_OrgQBody>
+    <MT_EN_OrgQBody>Is there a limit on the right to bring a spouse with a tourist visa?</MT_EN_OrgQBody>
+</OrgQuestion>
+
+
+
+<OrgQuestion ORGQ_ID="Q421">
+    <OrgQSubject>salary calculation help</OrgQSubject>
+    <tr_OrgQSubject>کمک هزینه محاسبه</tr_OrgQSubject>
+    <PE_OrgQSubject>کمک برای محاسبه حقوق</PE_OrgQSubject>
+    <MT_EN_OrgQSubject>Help to calculate salary</MT_EN_OrgQSubject>
+    <OrgQBody>how to calculate salary if you return from annual leave and start work on 25 October how many days you should take 6 or 7 days.</OrgQBody>
+    <tr_OrgQBody>نحوه محاسبه حقوق و دستمزد اگر از سالیانه بازنشسته می شوید و در 25 اکتبر کار خود را شروع کنید چند روز باید 6 یا 7 روز طول بکشد.</tr_OrgQBody>
+    <PE_OrgQBody>چگونه باید حقوق را محاسبه کرد اگر از مرخصی سالیانه برگردید و کار خود را در ۲۵ اکتبر شروع کنید؟ چند روز باید طول بکشد ۶ یا ۷ روز.</PE_OrgQBody>
+    <MT_EN_OrgQBody>How to calculate salaries If you go back to your annual leave and start your career on October 25th? How many days should be taken 6 or 7 days.</MT_EN_OrgQBody>
+</OrgQuestion>
+
+
+
+<OrgQuestion ORGQ_ID="Q422">
+    <OrgQSubject>Profession in Visa</OrgQSubject>
+    <tr_OrgQSubject>حرفه در ویزا</tr_OrgQSubject>
+    <PE_OrgQSubject>حرفه در ویزا</PE_OrgQSubject>
+    <MT_EN_OrgQSubject>Profession in visa</MT_EN_OrgQSubject>
+    <OrgQBody>HI In my visa it say Professional. What does this means? In this category can I sponsor my family? Please advice Thank You</OrgQBody>
+    <tr_OrgQBody>HI در ویزای من می گویند حرفه ای. این چه معنا دارد؟ آیا می توانم در این دسته از خانواده ام حمایت کنم؟ لطفا از شما متشکرم</tr_OrgQBody>
+    <PE_OrgQBody>سلام در ویزای من گفته شده حرفه‌ای. این به چه معناست؟ آیا می‌توانم در این دسته از خوانواده‌ام حمایت کنم؟ لطفا راهنمایی کنید از شما متشکرم</PE_OrgQBody>
+    <MT_EN_OrgQBody>Hi, my visa is said to be professional. What does this mean? Can I support this group of my friends? Please guide me thank you</MT_EN_OrgQBody>
+</OrgQuestion>
+
+
+
+<OrgQuestion ORGQ_ID="Q423">
+    <OrgQSubject>Work Ban</OrgQSubject>
+    <tr_OrgQSubject>کار ممنوع</tr_OrgQSubject>
+    <PE_OrgQSubject>ممنوعیت کار</PE_OrgQSubject>
+    <MT_EN_OrgQSubject>Prohibition of work</MT_EN_OrgQSubject>
+    <OrgQBody>Once you leave your job in Qatar how long is the ban on being able to get a work visa for a competitor? Is it one or 2 yrs?</OrgQBody>
+    <tr_OrgQBody>هنگامی که شما در قطر کار خود را ترک می کنید، مدت زمان ممنوعیت گرفتن ویزای کاری برای یک رقیب چیست؟ آیا یک یا دو سال است؟</tr_OrgQBody>
+    <PE_OrgQBody>هنگامی که شما در قطر کار خود را ترک می کنید، مدت زمان ممنوعیت گرفتن ویزای کاری برای یک رقیب چیست؟ آیا یک یا دو سال است؟</PE_OrgQBody>
+    <MT_EN_OrgQBody>When do you leave Qatar, what is the length of the visa ban for a competitor? Is it one or two years old?</MT_EN_OrgQBody>
+</OrgQuestion>
+
+
+
+<OrgQuestion ORGQ_ID="Q424">
+    <OrgQSubject>family visit visa</OrgQSubject>
+    <tr_OrgQSubject>خانواده ویزای بازدید</tr_OrgQSubject>
+    <PE_OrgQSubject>ویزای توریستی خانواده</PE_OrgQSubject>
+    <MT_EN_OrgQSubject>Family tourist visa</MT_EN_OrgQSubject>
+    <OrgQBody>hi all Some rumors are spread about family visit visa fee increased 200 to 500 or 1000. If any one known regarding subject please advise</OrgQBody>
+    <tr_OrgQBody>سلام به همه برخی از شایعات در مورد بازدید از خانواده بازدید بازدید هزینه ویزا افزایش 200 به 500 یا 1000. اگر هر یک در مورد موضوع شناخته شده لطفا توصیه</tr_OrgQBody>
+    <PE_OrgQBody>سلام به همه برخی از شایعات در مورد افزایش هزینه ویزای توریستی خانواده از 200 به 500 یا  1000 پخش شده است. اگر کسی در مورد موضوع مطرح شده می‌داند لطفا راهنمایی کند</PE_OrgQBody>
+    <MT_EN_OrgQBody>Hello everyone, there are some rumors about raising the cost of family travel visas from 200 to 500 or 1000. If someone knows about the subject, please advise</MT_EN_OrgQBody>
+</OrgQuestion>
+
+
+
+<OrgQuestion ORGQ_ID="Q425">
+    <OrgQSubject>SPONSOR TRANSFER BEFORE GETTING RESIDENCE PERMIT</OrgQSubject>
+    <tr_OrgQSubject>انتقال اسپانسر قبل از دریافت مجوز اقامت</tr_OrgQSubject>
+    <PE_OrgQSubject>انتقال اسپانسر قبل از دریافت مجوز اقامت</PE_OrgQSubject>
+    <MT_EN_OrgQSubject>Transfer of sponsor before obtaining a residence permit</MT_EN_OrgQSubject>
+    <OrgQBody>I NEED TO TRANSFER MY SPONSORSHIP BEFORE GETTING RESIDENCE PERMIT (IQAMA) . IS IT POSSIBLE ? AND IF SO IS THERE ANY ONE TO HELP ? MY CONTACT NO IS MOBILE: 31004588 E-Mail:awanexpo.ma@gmail.com</OrgQBody>
+    <tr_OrgQBody>من نیاز دارم تا قبل از رسیدن اجازه اقامت (IQAMA) به من اعتماد داشته باشم. آیا امکان دارد ؟ و اگر چنین است، آیا کسی به کمک نیاز دارد؟ من تماس با شماره تلفن همراه: 31004588 E-Mail: awanexpo.ma@gmail.com</tr_OrgQBody>
+    <PE_OrgQBody>من نیاز دارم تا قبل از گرفتن مجوز اقامت، اسپانسرم را منتقل کنم (IQAMA). آیا ممکن است؟ اگر چنین است، آیا کسی برای کمک وجود دارد؟ شماره تماس من موبایل:۳۱۰۰۴۵۸۸ e-mail:awanexpo.ma@gmail.com</PE_OrgQBody>
+    <MT_EN_OrgQBody>I need to transfer my sponsor (IQAMA) before obtaining a residence permit. Is it possible? If so, is there anyone to help? My mobile phone number: 31004588 e-mail: awanexpo.ma@gmail.com</MT_EN_OrgQBody>
+</OrgQuestion>
+
+
+
+<OrgQuestion ORGQ_ID="Q426">
+    <OrgQSubject>VISA for New Born Babay 2Months old</OrgQSubject>
+    <tr_OrgQSubject>VISA برای تولد نوزاد جدید 2 ماهه</tr_OrgQSubject>
+    <PE_OrgQSubject>ویزا برای نوزاد تازه متولد شده ۲ ماهه</PE_OrgQSubject>
+    <MT_EN_OrgQSubject>Visa for a newborn born 2 months</MT_EN_OrgQSubject>
+    <OrgQBody>Can any confirm do we need visa for New born baby for entrance in Qatar. Baby age 2 Months</OrgQBody>
+    <tr_OrgQBody>آیا می توانیم تأیید کنیم آیا برای نوزاد تازه متولد شده برای ویزای قطر نیاز به ویزا هستیم. سن کودک 2 ماه</tr_OrgQBody>
+    <PE_OrgQBody>آیا کسی می‌تواند تایید کند که نیاز به ویزا برای نوزاد تازه متولد شده برای ورود به قطر داریم. بچه ۲ ماهه است.</PE_OrgQBody>
+    <MT_EN_OrgQBody>Can anyone confirm that I need a visa for a newborn baby to enter Qatar? The kid is 2 months old.</MT_EN_OrgQBody>
+</OrgQuestion>
+
+
+
+<OrgQuestion ORGQ_ID="Q427">
+    <OrgQSubject>treatment for cat</OrgQSubject>
+    <tr_OrgQSubject>درمان گربه</tr_OrgQSubject>
+    <PE_OrgQSubject>درمان گربه</PE_OrgQSubject>
+    <MT_EN_OrgQSubject>Cure cat</MT_EN_OrgQSubject>
+    <OrgQBody>I see a wounded stray cat near my place is there any veterinary hospital for a reasonable cost where i can take her for treatment.</OrgQBody>
+    <tr_OrgQBody>من یک گربه مجروح شده زخمی را در نزدیکی محلم میبینم. هر بیمارستان دامپزشکی برای هزینه معقولی وجود دارد که من می توانم او را برای درمان بگیرم.</tr_OrgQBody>
+    <PE_OrgQBody>من یک گربه مجروح شده زخمی را در نزدیکی محلم میبینم. آیا بیمارستان دامپزشکی با هزینه معقول وجود دارد که بتوانم او را برای درمان ببرم.</PE_OrgQBody>
+    <MT_EN_OrgQBody>I see a wounded wounded cat near my home. Is there a reasonably priced veterinary hospital that I can take for treatment?</MT_EN_OrgQBody>
+</OrgQuestion>
+
+
+
+<OrgQuestion ORGQ_ID="Q428">
+    <OrgQSubject>Family Visit Visa</OrgQSubject>
+    <tr_OrgQSubject>ویزای خانواده بازدید کنید</tr_OrgQSubject>
+    <PE_OrgQSubject>ویزای توریستی خانواده</PE_OrgQSubject>
+    <MT_EN_OrgQSubject>Family tourist visa</MT_EN_OrgQSubject>
+    <OrgQBody>Hello ; Am planning to apply Family Visit visa; Is Labour contract stamped by Ministry of Labour is required for applying family visit visa?</OrgQBody>
+    <tr_OrgQBody>سلام ؛ برنامه ریزی برای درخواست ویزای خانوادگی؛ آیا قرارداد کار توسط وزارت کار توسط ویزای خانوادگی مورد نیاز است؟</tr_OrgQBody>
+    <PE_OrgQBody>سلام؛ من برنامه داردم که برای ویزای توریستی خانوادگی درخواست دهم؛ آیا قرارداد کار مهر شده توسط وزارت کار برای درخواست ویزای خانوادگی مورد نیاز است؟</PE_OrgQBody>
+    <MT_EN_OrgQBody>Hello, I plan to apply for a family tourist visa; Is a work contract signed by the Ministry of Labor to apply for a family visa?</MT_EN_OrgQBody>
+</OrgQuestion>
+
+
+
+<OrgQuestion ORGQ_ID="Q429">
+    <OrgQSubject>Family want to exit 20 days after her expiry of RP.</OrgQSubject>
+    <tr_OrgQSubject>خانواده می خواهند 20 روز پس از پایان دوره RP خود را ترک کنند.</tr_OrgQSubject>
+    <PE_OrgQSubject>خانواده می‌خواهند ۲۰ روز پس از پایان مجوز اقامت خود، ترک کنند</PE_OrgQSubject>
+    <MT_EN_OrgQSubject>The family wants to leave 20 days after the end of their residence permit</MT_EN_OrgQSubject>
+    <OrgQBody>My family want to exit 20 days after expiry of her RP. How much penalty shall apply while exit from Qatar</OrgQBody>
+    <tr_OrgQBody>خانواده من می خواهند 20 روز پس از پایان دوره RP خود را ترک کنند. چه مقدار مجازات در هنگام خروج از قطر اعمال خواهد شد</tr_OrgQBody>
+    <PE_OrgQBody>خانواده من می‌خواند ۲۰ روز پس از پایان مجوز اقامت خود، ترک کنند. چه مقدار مجازات به هنگام خروج از قطر اعمال خواهد شد؟</PE_OrgQBody>
+    <MT_EN_OrgQBody>My family is called to leave 20 days after the end of your residence permit. How much punishment will apply when leaving Qatar?</MT_EN_OrgQBody>
+</OrgQuestion>
+
+
+
+<OrgQuestion ORGQ_ID="Q430">
+    <OrgQSubject>Regarding work permit visa</OrgQSubject>
+    <tr_OrgQSubject>در مورد ویزای کار مجاز</tr_OrgQSubject>
+    <PE_OrgQSubject>در مورد ویزای مجوز کار</PE_OrgQSubject>
+    <MT_EN_OrgQSubject>For work permit visas</MT_EN_OrgQSubject>
+    <OrgQBody>Presently my husband is moving with business visa and then later company will apply for work visa. He is suffering with psoriasis will it effect in clearing medical for work permit</OrgQBody>
+    <tr_OrgQBody>در حال حاضر همسر من با ویزای کسب و کار در حال حرکت است و سپس شرکت برای ویزای کار درخواست خواهد کرد. او با پسوریازیس رنج می برد، آن را در پاک کردن پزشکی برای مجوز کار تاثیر می گذارد</tr_OrgQBody>
+    <PE_OrgQBody>در حال حاضر همسر من با ویزای کسب و کار در حال حرکت است و سپس شرکت برای ویزای کار  درخواست خواهد کرد. او از پسوریازیس رنج می‌برد. آیا در پاکسازی پزشکی برای ویزای کار تاثیر خواهد داشت؟ </PE_OrgQBody>
+    <MT_EN_OrgQBody>My husband is currently on business with a business visa, and then the company will apply for a work visa. He suffers from psoriasis. Will there be any medical impairment for a work visa?</MT_EN_OrgQBody>
+</OrgQuestion>
+
+
+
+<OrgQuestion ORGQ_ID="Q431">
+    <OrgQSubject>Baladiya stamp on Rent contract</OrgQSubject>
+    <tr_OrgQSubject>Baladiya مهر در قرارداد اجاره</tr_OrgQSubject>
+    <PE_OrgQSubject>مهر Baladiya در قرارداد اجاره</PE_OrgQSubject>
+    <MT_EN_OrgQSubject>Seal Baladiya in the lease contract</MT_EN_OrgQSubject>
+    <OrgQBody>What are the requirements to get Baladiya Stamp on Rental Contract?</OrgQBody>
+    <tr_OrgQBody>الزامات دریافت قرارداد اجاره Baladiya Stamp چیست؟</tr_OrgQBody>
+    <PE_OrgQBody>الزامات دریافت مهر Baladiya در قرارداد اجاره چیست؟</PE_OrgQBody>
+    <MT_EN_OrgQBody>What are the requirements for receiving Baladiya meal in the rental agreement?</MT_EN_OrgQBody>
+</OrgQuestion>
+
+
+
+<OrgQuestion ORGQ_ID="Q432">
+    <OrgQSubject>help</OrgQSubject>
+    <tr_OrgQSubject>کمک</tr_OrgQSubject>
+    <PE_OrgQSubject>کمک</PE_OrgQSubject>
+    <MT_EN_OrgQSubject>Help</MT_EN_OrgQSubject>
+    <OrgQBody>hi every 1 iam new in qatar .......... i have tab i pad mini........but forget screen lock ..plz any 1 help i need to know which location possible to open my tab</OrgQBody>
+    <tr_OrgQBody>سلام هر 1 iam جدید در qatar .......... من tab من پد مینی ........ اما قفل صفحه نمایش را فراموش کرده ام .. plz هر 1 کمک من نیاز به دانستن که محل ممکن است برای باز کردن برگه من</tr_OrgQBody>
+    <PE_OrgQBody>سلام به همه. من در قطر جدید هستم. من تبلت آی پد مینی دارم اما قفل صفحه را فراموش کردم. لطفا هر کسی کمک کند من نیاز دارم بدانم چه مکانی ممکن است تبلت من را باز کند</PE_OrgQBody>
+    <MT_EN_OrgQBody>Hello to all. I am new in Qatar. I have an iPad mini tablet, but I forgot to lock the screen. Please help anyone. I need to know what space might open my tablet</MT_EN_OrgQBody>
+</OrgQuestion>
+
+
+
+<OrgQuestion ORGQ_ID="Q433">
+    <OrgQSubject>Badminton?</OrgQSubject>
+    <tr_OrgQSubject>بدمینتون؟</tr_OrgQSubject>
+    <PE_OrgQSubject>بدمینتون؟</PE_OrgQSubject>
+    <MT_EN_OrgQSubject>badminton?</MT_EN_OrgQSubject>
+    <OrgQBody>Have tried a few times to see if there's any badminton clubs here; but to no success. Any idea if there's a group or anyone who plays and wants to play?</OrgQBody>
+    <tr_OrgQBody>چند بار تلاش کرده ایم تا ببینیم آیا باشگاه های بدمینتون در اینجا وجود دارد یا خیر. اما بدون موفقیت هر ایده ای وجود دارد که آیا یک گروه یا هر کسی که نقش بازی می کند و می خواهد بازی کند؟</tr_OrgQBody>
+    <PE_OrgQBody>چندین بار تلاش کرده‌ام تا ببینم آیا باشگاه‌های بدمینتون در اینجا وجود دارد یا خیر؛ اما بدون موفقیت. هر ایده‌ای که آیا یک گروه یا هر کسی که بازی می‌کند یا می‌خواد بازی کند وجود دارد؟</PE_OrgQBody>
+    <MT_EN_OrgQBody>I've tried several times to see if badminton clubs are there, but without success. Any idea of ​​whether there is a group or anyone who plays or wants to play?</MT_EN_OrgQBody>
+</OrgQuestion>
+
+
+
+<OrgQuestion ORGQ_ID="Q434">
+    <OrgQSubject>What place is this</OrgQSubject>
+    <tr_OrgQSubject>این مکان چیست؟</tr_OrgQSubject>
+    <PE_OrgQSubject>این مکان چیست؟</PE_OrgQSubject>
+    <MT_EN_OrgQSubject>What is this place?</MT_EN_OrgQSubject>
+    <OrgQBody>Hi Can anyone tell the name of this marked place near Alkhor. Infact it seems to be a good park. Is it private or public? Thanks</OrgQBody>
+    <tr_OrgQBody>سلام هر کسی می تواند نام این مکان مشخص شده در نزدیکی Alkhor را بگوید. به نظر میرسد پارک خوب است. آیا خصوصی یا عمومی است؟ با تشکر</tr_OrgQBody>
+    <PE_OrgQBody>سلام هر کسی می تواند نام این مکان مشخص شده در نزدیکی Alkhor را بگوید. به نظر میرسد پارک خوبی است. آیا خصوصی یا عمومی است؟ با تشکر</PE_OrgQBody>
+    <MT_EN_OrgQBody>Hi everyone can say the name of this place near Alkhor. It looks like a good park. Is it private or public? Thanks</MT_EN_OrgQBody>
+</OrgQuestion>
+
+
+
+<OrgQuestion ORGQ_ID="Q435">
+    <OrgQSubject>food mess</OrgQSubject>
+    <tr_OrgQSubject>ظروف غذا</tr_OrgQSubject>
+    <PE_OrgQSubject>غذاخوری</PE_OrgQSubject>
+    <MT_EN_OrgQSubject>Dining room</MT_EN_OrgQSubject>
+    <OrgQBody>guys does anyone know if any food mess is available in Al Aziziya.Please let me know Thank you</OrgQBody>
+    <tr_OrgQBody>بچه ها هر کسی می داند که اگر غذا خوردن غذا در الزیدیه باشد، لطفا به من اطلاع دهید با تشکر از شما</tr_OrgQBody>
+    <PE_OrgQBody>بچه ها کسی می داند که آیا غذاخوری در الزیدیه وجود دارد، لطفا به من اطلاع دهید با تشکر از شما</PE_OrgQBody>
+    <MT_EN_OrgQBody>Someone knows if there is a diner in al-Zaydieh, please let me know, thank you</MT_EN_OrgQBody>
+</OrgQuestion>
+
+
+
+<OrgQuestion ORGQ_ID="Q436">
+    <OrgQSubject>NEED TO REDUCE WEIGHT</OrgQSubject>
+    <tr_OrgQSubject>نیاز به کاهش وزن</tr_OrgQSubject>
+    <PE_OrgQSubject>نیاز به کاهش وزن</PE_OrgQSubject>
+    <MT_EN_OrgQSubject>Need to lose weight</MT_EN_OrgQSubject>
+    <OrgQBody>Hi all please guide me to reduce my weight i am suffering from obesity 55259434 please call me if you are training any fitness classes. Thank you</OrgQBody>
+    <tr_OrgQBody>سلام، لطفا راهنمای من را برای کاهش وزن من که من از چاقی 55259434 رنج می برند لطفا با من تماس بگیرید اگر شما در حال آموزش هر گونه کلاس های تناسب اندام. متشکرم</tr_OrgQBody>
+    <PE_OrgQBody>سلام به همه. لطفا من را برای کاهش وزن راهنمایی کنید من از چاقی رنج می‌برم لطفا با من تماس بگیرید اگر شما در حال آموزش هرگونه کلاس‌های تناسب اندام هستید 55259434. متشکرم</PE_OrgQBody>
+    <MT_EN_OrgQBody>Hello to all. Please guide me for weight loss. I'm suffering from obesity. Please contact me if you are training any fitness classes. 55259434. Thank you.</MT_EN_OrgQBody>
+</OrgQuestion>
+
+
+
+<OrgQuestion ORGQ_ID="Q437">
+    <OrgQSubject>Toyota used spare parts</OrgQSubject>
+    <tr_OrgQSubject>تویوتا از قطعات یدکی استفاده می کند</tr_OrgQSubject>
+    <PE_OrgQSubject>تویوتا از قطعات یدکی استفاده می‌کند</PE_OrgQSubject>
+    <MT_EN_OrgQSubject>Toyota uses spare parts</MT_EN_OrgQSubject>
+    <OrgQBody>Could you please advise any place to buy Toyota used spare parts. I need Toyota Echo 2005 model's front left power window switch. Currently; not available in the dealer. Thank you;</OrgQBody>
+    <tr_OrgQBody>آیا می توانم لطفا هر جای دیگری را برای خرید تویوتا از قطعات یدکی راهنمایی کنید. من نیاز به سوئیچ پنجره قدرت چپ مدل تویوتا اکو 2005 را دارم. در حال حاضر؛ در فروشنده موجود نیست متشکرم؛</tr_OrgQBody>
+    <PE_OrgQBody>آیا می‌توانید لطفا توصیه کنید هر مکانی را برای خرید قطعات یدکی مورد استفاده تویوتا. من نیاز به سوئیچ پنجره جلو چپ مدل تویوتا اکو 2005 دارم؛ در حال حاضر؛ در فروشگاه موجود نیست. متشکرم؛ا</PE_OrgQBody>
+    <MT_EN_OrgQBody>Can you please recommend any place to buy spare parts used by Toyota. I need to switch the front window of the Toyota Eco 2005 model; now it's not in store. Thank you;</MT_EN_OrgQBody>
+</OrgQuestion>
+
+
+
+<OrgQuestion ORGQ_ID="Q438">
+    <OrgQSubject>Looking for a good pediatric psychologist in Qatar</OrgQSubject>
+    <tr_OrgQSubject>در جستجوی یک روانشناس خوب اطفال در قطر است</tr_OrgQSubject>
+    <PE_OrgQSubject>در جستجوی یک روانشناس خوب اطفال در قطر</PE_OrgQSubject>
+    <MT_EN_OrgQSubject>Seeking a good child psychologist in Qatar</MT_EN_OrgQSubject>
+    <OrgQBody>Hi I am looking for a good children psychologist in Doha. Please help if you have any experience. Thank you.</OrgQBody>
+    <tr_OrgQBody>سلام من به دنبال یک روانشناس خوب کودکان در دوحه هستم. لطفا در صورت تجربه هر گونه کمک متشکرم.</tr_OrgQBody>
+    <PE_OrgQBody>سلام من به دنبال یک روانشناس خوب کودکان در دوحه هستم. لطفا در صورتی که هرگونه تجربه‌ای دارید کمک کنید. متشکرم.</PE_OrgQBody>
+    <MT_EN_OrgQBody>Hi, I'm looking for a good psychologist in children in Doha. Please help if you have any experiences. Thank you.</MT_EN_OrgQBody>
+</OrgQuestion>
+
+
+
+<OrgQuestion ORGQ_ID="Q439">
+    <OrgQSubject>Resignation during Probation period</OrgQSubject>
+    <tr_OrgQSubject>استعفای در دوره آزمایشی</tr_OrgQSubject>
+    <PE_OrgQSubject>استعفا در دوره آزمایشی</PE_OrgQSubject>
+    <MT_EN_OrgQSubject>Resign during the trial period</MT_EN_OrgQSubject>
+    <OrgQBody>I have a 6 month probation period - I have been in Doha for 4 months. If I resign; do I have to pay my company back recruitment costs; visa costs; etc?</OrgQBody>
+    <tr_OrgQBody>من یک دوره 6 ماهه امتحان دارم - من مدت 4 ماه در دوحه بوده ام. اگر من استعفا دادم؛ آیا مجبورم هزینه های استخدام من را برای شرکت بپردازم؟ هزینه های ویزا؛ و غیره؟</tr_OrgQBody>
+    <PE_OrgQBody>من یک دوره ۶ ماهه آموزشی دارم – من مدت ۴ ماه در دوحه بوده‌ام. اگر استعفا دهم، آیا مجبورم هزینه‌های استخدام؛ هزینه‌های ویزا؛ غیره را به شرکت بپردازم؟ </PE_OrgQBody>
+    <MT_EN_OrgQBody>I have a six month training course - I have been in Doha for four months. If I resign, do I have to pay the costs of hiring, visa fees, etc.?</MT_EN_OrgQBody>
+</OrgQuestion>
+
+
+
+<OrgQuestion ORGQ_ID="Q440">
+    <OrgQSubject>Visa</OrgQSubject>
+    <tr_OrgQSubject>ویزا</tr_OrgQSubject>
+    <PE_OrgQSubject>ویزا</PE_OrgQSubject>
+    <MT_EN_OrgQSubject>Visa</MT_EN_OrgQSubject>
+    <OrgQBody>Hi all; I want to change the sponsorship to new company.My current Company is blacklisted.so i cannot transfer the sponsorship. can any one have idea about this problem.please help me Thanks;</OrgQBody>
+    <tr_OrgQBody>سلام به همه؛ من می خواهم کمک مالی را به شرکت جدید تغییر دهم. شرکت فعلی من در لیست سیاه قرار دارد و من نمی توانم حمایت مالی انجام دهم. هر کس می تواند یک ایده را در مورد این مشکل داشته باشد. لطفا به من کمک کنید؛ متشکرم؛</tr_OrgQBody>
+    <PE_OrgQBody>سلام به همه؛ من می‌خواهم اسپانسر را به شرکت جدید تغییر دهم. شرکت فعلی من در لیست سیاه قرار دارد و من نمی‌توانم حمایت مالی را انتقال دهم. آیا کسی ایده‌ای درباره این مشکل دارد؟ لطفا من را کمک کنید؛ متشکرم</PE_OrgQBody>
+    <MT_EN_OrgQBody>Hello everyone; I want to change the sponsor to the new company. My current company is in the blacklist and I can not transfer financial support. Does anyone have an idea about this problem? Please help me. Thank you</MT_EN_OrgQBody>
+</OrgQuestion>
+
+
+
+<OrgQuestion ORGQ_ID="Q441">
+    <OrgQSubject>Day care within schools</OrgQSubject>
+    <tr_OrgQSubject>مراقبت روزانه در مدارس</tr_OrgQSubject>
+    <PE_OrgQSubject>مراقبت روزانه در مدارس</PE_OrgQSubject>
+    <MT_EN_OrgQSubject>Day care in schools</MT_EN_OrgQSubject>
+    <OrgQBody>Hello; I wanted to know if there are any schools in Qatar in which there is a day care (for 1 year old child) within the school premises?</OrgQBody>
+    <tr_OrgQBody>سلام؛ من می خواستم بدانم که آیا در قطر هر مدرسه ای وجود دارد که در آن در یک مدرسه در یک مهد کودک (برای کودک 1 ساله) وجود دارد؟</tr_OrgQBody>
+    <PE_OrgQBody>سلام؛ من می خواستم بدانم که آیا در قطر مدرسه ای وجود دارد که در آن یک مهد کودک (برای کودک 1 ساله) وجود دارد؟</PE_OrgQBody>
+    <MT_EN_OrgQBody>Hello, I wanted to know if there is a school in Qatar in which there is a kindergarten (for a 1 year old child)?</MT_EN_OrgQBody>
+</OrgQuestion>
+
+
+
+<OrgQuestion ORGQ_ID="Q442">
+    <OrgQSubject>Medical insurance</OrgQSubject>
+    <tr_OrgQSubject>بیمه ی درمانی</tr_OrgQSubject>
+    <PE_OrgQSubject>بیمه ی درمانی</PE_OrgQSubject>
+    <MT_EN_OrgQSubject>Health insurance</MT_EN_OrgQSubject>
+    <OrgQBody>I want to make health insurance that include dental and to be activated quickly other than hamad ..any suggestions about companies ;prices how to proceed</OrgQBody>
+    <tr_OrgQBody>من می خواهم بیمه بهداشتی را که شامل دندانپزشکی است و سریعا به غیر از حمد، فعال کنم .. هرگونه پیشنهاد در مورد شرکت ها؛ قیمت ها چگونه ادامه پیدا کنند</tr_OrgQBody>
+    <PE_OrgQBody>من می خواهم بیمه بهداشتی را که شامل دندانپزشکی است به غیر از حمد، سریعا فعال کنم .. هرگونه پیشنهاد در مورد شرکت ها؛ قیمت ها چگونه پیش بروم</PE_OrgQBody>
+    <MT_EN_OrgQBody>I want to activate a health insurance that includes dentistry other than Haddad. I would like to make any suggestions on companies, prices, how to go?</MT_EN_OrgQBody>
+</OrgQuestion>
+
+
+
+<OrgQuestion ORGQ_ID="Q443">
+    <OrgQSubject>Can I transfer to another company after 2 months</OrgQSubject>
+    <tr_OrgQSubject>آیا می توانم بعد از 2 ماه به شرکت دیگری منتقل شوم؟</tr_OrgQSubject>
+    <PE_OrgQSubject>آیا می توانم بعد از 2 ماه به شرکت دیگری منتقل شوم؟</PE_OrgQSubject>
+    <MT_EN_OrgQSubject>Can I transfer to another company after 2 months?</MT_EN_OrgQSubject>
+    <OrgQBody>Can I transfer to another company after 2 months if the company gives NOC</OrgQBody>
+    <tr_OrgQBody>آیا می توانم بعد از 2 ماه به شرکت دیگری منتقل شوم اگر این شرکت NOC را بدهد</tr_OrgQBody>
+    <PE_OrgQBody>آیا می توانم بعد از 2 ماه به شرکت دیگری منتقل شوم اگر این شرکت NOC را بدهد</PE_OrgQBody>
+    <MT_EN_OrgQBody>Can I transfer to another company after 2 months if I give this company NOC</MT_EN_OrgQBody>
+</OrgQuestion>
+
+
+
+<OrgQuestion ORGQ_ID="Q444">
+    <OrgQSubject>Family Visit Visa</OrgQSubject>
+    <tr_OrgQSubject>ویزای خانواده بازدید کنید</tr_OrgQSubject>
+    <PE_OrgQSubject>ویزای بازدید خانواده </PE_OrgQSubject>
+    <MT_EN_OrgQSubject>Family visit visa</MT_EN_OrgQSubject>
+    <OrgQBody>Dear Friends ; Any body can tell me How many days we need to apply Family Visit visa at second time after they leaving Qatar after first visit ??? Azhar.E.A.</OrgQBody>
+    <tr_OrgQBody>دوستان عزیز ؛ هر بدن می تواند به من بگوید چند روز پس از خروج از قطر پس از اولین بازدید، ما مجددا باید از ویزای خانوادگی استفاده کنیم؟ Azhar.E.A.</tr_OrgQBody>
+    <PE_OrgQBody>دوستان عزیز ؛آیا کسی می تواند به من بگوید چند روز پس از خروج از قطر پس از اولین بازدید، ما مجددا باید برای ویزای خانوادگی اقدام کنیم؟ Azhar.E.A.</PE_OrgQBody>
+    <MT_EN_OrgQBody>Dear friends; Can anyone tell me how many days after leaving Qatar after the first visit, we must again apply for a family visa? Azhar.E.A.</MT_EN_OrgQBody>
+</OrgQuestion>
+
+
+
+<OrgQuestion ORGQ_ID="Q445">
+    <OrgQSubject>playing basketball</OrgQSubject>
+    <tr_OrgQSubject>در حال بازی بسکتبال</tr_OrgQSubject>
+    <PE_OrgQSubject> بسکتبال بازی کردن  </PE_OrgQSubject>
+    <MT_EN_OrgQSubject>Playing basketball</MT_EN_OrgQSubject>
+    <OrgQBody>I am basket ball player; who lives in umm ghuwlina (doha). i want to play basketball. if people play basketball can contact me to arrange games</OrgQBody>
+    <tr_OrgQBody>من بازیکن بسکتبال هستم؛ که در umm ghuwailina (دوحه) زندگی می کند. من می خواهم بسکتبال بازی کنم اگر مردم بسکتبال بازی کنند می توانند با من تماس بگیرند تا بازی ها را ترتیب دهند</tr_OrgQBody>
+    <PE_OrgQBody> بازیکن بسکتبال هستم؛ که در umm ghuwailina (دوحه) زندگی می کند. من می خواهم بسکتبال بازی کنم اگر کسی بسکتبال بازی می کند می توانند با من تماس بگیرند تا بازی ترتیب دهیم</PE_OrgQBody>
+    <MT_EN_OrgQBody>I am a basketball player who lives in umm ghuwailina (Doha). I want to play basketball if someone plays basketball can contact me to arrange a game.</MT_EN_OrgQBody>
+</OrgQuestion>
+
+
+
+<OrgQuestion ORGQ_ID="Q446">
+    <OrgQSubject>where i can find Fresh Fish Restaurant</OrgQSubject>
+    <tr_OrgQSubject>من می توانم رستوران تازه ماهی را پیدا کنم</tr_OrgQSubject>
+    <PE_OrgQSubject>من کجا می توانم رستوران تازه ماهی پیدا کنم</PE_OrgQSubject>
+    <MT_EN_OrgQSubject>Where can I find the fresh fish restaurant?</MT_EN_OrgQSubject>
+    <OrgQBody>Please inform the best fresh Fish restaurant for family</OrgQBody>
+    <tr_OrgQBody>لطفا بهترین رستوران ماهی تازه برای خانواده را مطلع کنید</tr_OrgQBody>
+    <PE_OrgQBody>لطفا بهترین رستوران ماهی تازه برای خانواده را معرفی کنید</PE_OrgQBody>
+    <MT_EN_OrgQBody>Please introduce the best fresh fish restaurant for your family</MT_EN_OrgQBody>
+</OrgQuestion>
+
+
+
+<OrgQuestion ORGQ_ID="Q447">
+    <OrgQSubject>Remit</OrgQSubject>
+    <tr_OrgQSubject>تعمیرات</tr_OrgQSubject>
+    <PE_OrgQSubject>تعمیرات</PE_OrgQSubject>
+    <MT_EN_OrgQSubject>Repairs</MT_EN_OrgQSubject>
+    <OrgQBody>Hi Everyone I am new to qatar ; i need to send money to india so which is the best exchange which gives better rate and where is it located.</OrgQBody>
+    <tr_OrgQBody>سلام هر کس من تازه به قطر هستم؛ من باید پول را به هند بفرستم تا بهترین مبادله ای که نرخ بهتر را ارائه می دهد و کجا قرار دارد.</tr_OrgQBody>
+    <PE_OrgQBody>سلام به همگی من تازه به قطر آمدم؛ من باید پول را به هند بفرستم. بهترین مبادله ای که نرخ بهتر را ارائه می دهد کدام است و کجا قرار دارد.</PE_OrgQBody>
+    <MT_EN_OrgQBody>Hello everyone I just came to Qatar; I have to send money to India. What is the best exchange that offers better rates and where?</MT_EN_OrgQBody>
+</OrgQuestion>
+
+
+
+<OrgQuestion ORGQ_ID="Q448">
+    <OrgQSubject>household clearance companies</OrgQSubject>
+    <tr_OrgQSubject>شرکت های اعتباری خانگی</tr_OrgQSubject>
+    <PE_OrgQSubject>شرکت های اعتباری خانگی</PE_OrgQSubject>
+    <MT_EN_OrgQSubject>Home Credit Companies</MT_EN_OrgQSubject>
+    <OrgQBody>Anyone know of a company that can clear your house of furniture/appliances/misc when leaving Doha?</OrgQBody>
+    <tr_OrgQBody>هر کس از یک شرکت می داند که می تواند خانه خود را از مبلمان / لوازم / متفرقه در هنگام خروج از دوحه پاک کند؟</tr_OrgQBody>
+    <PE_OrgQBody>آیا کسی شرکتی می شناسد که می تواند مبلمان / لوازم / متفرقه خانه خود را در هنگام خروج از دوحه جمع کند؟</PE_OrgQBody>
+    <MT_EN_OrgQBody>Does anyone know a company that can collect furniture / supplies / miscellaneous items when leaving Doha?</MT_EN_OrgQBody>
+</OrgQuestion>
+
+
+
+<OrgQuestion ORGQ_ID="Q449">
+    <OrgQSubject>Medical card for family</OrgQSubject>
+    <tr_OrgQSubject>کارت پزشکی برای خانواده</tr_OrgQSubject>
+    <PE_OrgQSubject>کارت پزشکی برای خانواده</PE_OrgQSubject>
+    <MT_EN_OrgQSubject>Medical card for the family</MT_EN_OrgQSubject>
+    <OrgQBody>Hi; I am in need of a medical card for my wife. she is under my sponsorship. please suggest the best card available with cost and features. Thank you</OrgQBody>
+    <tr_OrgQBody>سلام؛ برای همسر من نیاز به یک کارت پزشکی دارم او تحت حمایت من است لطفا بهترین کارت را با هزینه و امکانات ارائه کنید. متشکرم</tr_OrgQBody>
+    <PE_OrgQBody>سلام؛ برای همسر من نیاز به یک کارت پزشکی دارم او تحت حمایت من است لطفا بهترین کارت را از نظر هزینه و امکانات معرفی کنید. متشکرم</PE_OrgQBody>
+    <MT_EN_OrgQBody>Hi, I need a medical card for my wife. He is under my protection. Please introduce the best card in terms of cost and facilities. Thank you</MT_EN_OrgQBody>
+</OrgQuestion>
+
+
+
+<OrgQuestion ORGQ_ID="Q450">
+    <OrgQSubject>sponsorship change</OrgQSubject>
+    <tr_OrgQSubject>تغییرات حمایتی</tr_OrgQSubject>
+    <PE_OrgQSubject>تغییرات حمایتی</PE_OrgQSubject>
+    <MT_EN_OrgQSubject>Supportive changes</MT_EN_OrgQSubject>
+    <OrgQBody>hai all... how much time will it take for sponsorship change form private to semi government ; after submitting all documents like noc;pcc etc.. thank you</OrgQBody>
+    <tr_OrgQBody>هان همه ... چقدر زمان را برای تغییرات حمایتی از خصوصی به نیمه دولتی می گیرد؛ پس از ارسال تمام اسناد مانند NOC؛ PKK و غیره .. با تشکر از شما</tr_OrgQBody>
+    <PE_OrgQBody>هان همه ... تغییرات حمایتی از خصوصی به نیمه دولتی چقدر زمان می گیرد؛ پس از ارسال تمام اسناد مانند NOC؛ PKK و غیره .. با تشکر از شما</PE_OrgQBody>
+    <MT_EN_OrgQBody>Han all ... how much time does it take to change the protection from private to the semi-government; after sending all the documents like NOC; PKK etc ... Thank you</MT_EN_OrgQBody>
+</OrgQuestion>
+
+
+
+<OrgQuestion ORGQ_ID="Q451">
+    <OrgQSubject>Car suggesttion</OrgQSubject>
+    <tr_OrgQSubject>پیشنهاد خودرو</tr_OrgQSubject>
+    <PE_OrgQSubject>پیشنهاد خودرو</PE_OrgQSubject>
+    <MT_EN_OrgQSubject>Car offer</MT_EN_OrgQSubject>
+    <OrgQBody>Hi everyone ; can you suggest me any 2nd hand car except tiida and sunny? I am looking a car which costs around 15000 to 25000; and lower than 100000 km millage. Thanks</OrgQBody>
+    <tr_OrgQBody>سلام به همه ؛ آیا می توانید هر ماشین دست دوم را به جز تییدا و sunny نشان دهید؟ من به دنبال یک ماشین هستم که حدود 15000 تا 25000 قیمت دارد؛ و کمتر از 100000 کیلومتر می باشد. با تشکر</tr_OrgQBody>
+    <PE_OrgQBody>سلام به همه ؛ آیا می توانید هر ماشین دست دوم را به جز تییدا و sunny نشان دهید؟ من به دنبال یک ماشین هستم که حدود 15000 تا 25000 قیمت دارد؛ و کمتر از 100000 کیلومتر می باشد. با تشکر</PE_OrgQBody>
+    <MT_EN_OrgQBody>Hello everyone; Can you show any second hand car except Taydy and Sunny? I am looking for a car that costs about 15,000 to 25,000, and is less than 100,000 kilometers. Thanks</MT_EN_OrgQBody>
+</OrgQuestion>
+
+
+
+<OrgQuestion ORGQ_ID="Q452">
+    <OrgQSubject>Replacing damaged car number plate</OrgQSubject>
+    <tr_OrgQSubject>جایگزینی شماره ماشین آسیب دیده</tr_OrgQSubject>
+    <PE_OrgQSubject>جایگزینی شماره ماشین آسیب دیده</PE_OrgQSubject>
+    <MT_EN_OrgQSubject>Replacing damaged car number</MT_EN_OrgQSubject>
+    <OrgQBody>Does the new traffic department in Wakrah replace damaged car number plate?. If not where can I get it done.</OrgQBody>
+    <tr_OrgQBody>آیا ترافیک جدید در واکرا جای ماشین شماره گذاری آسیب دیده را جایگزین می کند؟ اگر نه کجا می توانم آن را انجام دهم</tr_OrgQBody>
+    <PE_OrgQBody>آیا ترافیک جدید در واکرا جای ماشین شماره گذاری آسیب دیده را جایگزین می کند؟ اگر نه کجا می توانم آن را انجام دهم</PE_OrgQBody>
+    <MT_EN_OrgQBody>Does the new traffic in Wacer replace the damaged numbering machine? If not where can i do it</MT_EN_OrgQBody>
+</OrgQuestion>
+
+
+
+<OrgQuestion ORGQ_ID="Q453">
+    <OrgQSubject>Business Visa Processing Time?</OrgQSubject>
+    <tr_OrgQSubject>زمان پردازش ویزا تجاری؟</tr_OrgQSubject>
+    <PE_OrgQSubject>زمان پردازش ویزا تجاری؟</PE_OrgQSubject>
+    <MT_EN_OrgQSubject>Business Visa Processing Time?</MT_EN_OrgQSubject>
+    <OrgQBody>A company is applying for a business visa for me to come to look at a potential new job - could someone please tell me approximately how long it should take for them to obtain the visa?</OrgQBody>
+    <tr_OrgQBody>یک شرکت برای گرفتن ویزای کسب و کار برای من به دنبال یک کار بالقوه جدید است - آیا کسی ممکن است لطفا به من بگویید تقریبا چه مدت برای گرفتن ویزا لازم است؟</tr_OrgQBody>
+    <PE_OrgQBody>یک شرکت برای گرفتن ویزای کسب و کار برای من برای یک کار احتمالی جدید است - آیا کسی ممکن است لطفا به من بگویید تقریبا چه مدت برای گرفتن ویزا لازم است؟</PE_OrgQBody>
+    <MT_EN_OrgQBody>A business to get a business visa is for me a new job - Can someone please tell me how long is it necessary to get a visa?</MT_EN_OrgQBody>
+</OrgQuestion>
+
+
+
+<OrgQuestion ORGQ_ID="Q454">
+    <OrgQSubject>Can Visit Visa Entry date can be extended?</OrgQSubject>
+    <tr_OrgQSubject>آیا می توان تاریخ ورود ویزا را مشاهده کرد؟</tr_OrgQSubject>
+    <PE_OrgQSubject>آیا می توان تاریخ ورود ویزا را بیشتر کرد؟</PE_OrgQSubject>
+    <MT_EN_OrgQSubject>Can I increase the date of the entry of the visa?</MT_EN_OrgQSubject>
+    <OrgQBody>I have taken a family visit visa.As per visa;he should enter Qatar before 21.3.2015 (3 Months from issue date). Is it possible to extend the entry date? If so please explain the procedures....</OrgQBody>
+    <tr_OrgQBody>من یک ویزای خانوادگی گرفته ام. در هر ویزا، او باید قطر را قبل از 2013/3/23 وارد کند (3 ماه از تاریخ انتشار). آیا می توان تاریخ ورود را گسترش داد؟ اگر چنین باشد، مراحل را توضیح دهید ....</tr_OrgQBody>
+    <PE_OrgQBody>من یک ویزای خانوادگی گرفته ام. در ویزا، او باید قطر را قبل از 2013/3/23 وارد شود (3 ماه از تاریخ انتشار). آیا می توان تاریخ ورود را بیشتر کرد؟ اگر چنین باشد، مراحل را توضیح دهید ....</PE_OrgQBody>
+    <MT_EN_OrgQBody>I have taken a family visa. In the visa, he must enter Qatar before 23/3/2013 (3 months from the date of publication). Can I increase the date of arrival? If so, explain the steps.</MT_EN_OrgQBody>
+</OrgQuestion>
+
+
+
+<OrgQuestion ORGQ_ID="Q455">
+    <OrgQSubject>Shipping</OrgQSubject>
+    <tr_OrgQSubject>حمل دریایی</tr_OrgQSubject>
+    <PE_OrgQSubject>حمل دریایی</PE_OrgQSubject>
+    <MT_EN_OrgQSubject>shipping</MT_EN_OrgQSubject>
+    <OrgQBody>Can someone recommend a reliable shipping company to ship from Doha to Chicago</OrgQBody>
+    <tr_OrgQBody>آیا کسی می تواند یک شرکت حمل و نقل قابل اعتماد را از دوحه به شیکاگو بفرستد</tr_OrgQBody>
+    <PE_OrgQBody>آیا کسی می تواند یک شرکت حمل و نقل قابل اعتماد را از دوحه به شیکاگو پیشنهاد بدهد</PE_OrgQBody>
+    <MT_EN_OrgQBody>Can anyone offer a trusted shipping company from Doha to Chicago?</MT_EN_OrgQBody>
+</OrgQuestion>
+
+
+
+<OrgQuestion ORGQ_ID="Q456">
+    <OrgQSubject>Transfer of Sponsorship</OrgQSubject>
+    <tr_OrgQSubject>انتقال حمایت</tr_OrgQSubject>
+    <PE_OrgQSubject>انتقال حمایت</PE_OrgQSubject>
+    <MT_EN_OrgQSubject>Transfer protection</MT_EN_OrgQSubject>
+    <OrgQBody>Hi; I've been here for 6 months and I need to transfer my sponsorship; Is it possible? What is required? Thanks</OrgQBody>
+    <tr_OrgQBody>سلام؛ من برای مدت 6 ماه آنجا بوده ام و من باید حمایت مالی خود را انجام دهم؛ آیا امکان دارد؟ چه چیزی لازمه؟ با تشکر</tr_OrgQBody>
+    <PE_OrgQBody>سلام؛ من برای مدت 6 ماه اینجا بوده ام و من باید حمایت خود را منتقل کنم؛ آیا امکان دارد؟ چه چیزی لازمه؟ با تشکر</PE_OrgQBody>
+    <MT_EN_OrgQBody>Hi, I have been here for 6 months and I have to convey my support; is it possible? What is needed? Thanks</MT_EN_OrgQBody>
+</OrgQuestion>
+
+
+
+<OrgQuestion ORGQ_ID="Q457">
+    <OrgQSubject>Pharmacy in Qatar?</OrgQSubject>
+    <tr_OrgQSubject>داروسازی در قطر؟</tr_OrgQSubject>
+    <PE_OrgQSubject>داروخانه در قطر؟</PE_OrgQSubject>
+    <MT_EN_OrgQSubject>Pharmacy in Qatar?</MT_EN_OrgQSubject>
+    <OrgQBody>Hey; What is the average salary for a pharmacist in Qatar? 'I'm American; master's degree; 4 years experience</OrgQBody>
+    <tr_OrgQBody>هی حقوق متوسط ​​برای یک داروساز در قطر چیست؟ 'من امریکایی هستم؛ مدرک کارشناسی ارشد؛ 4 سال تجربه</tr_OrgQBody>
+    <PE_OrgQBody>هی حقوق متوسط ​​برای یک داروساز در قطر چیست؟ 'من امریکایی هستم؛ مدرک کارشناسی ارشد؛ 4 سال تجربه</PE_OrgQBody>
+    <MT_EN_OrgQBody>What is the average salary for a pharmacist in Qatar? 'I am an American; Master's degree; 4 years experience</MT_EN_OrgQBody>
+</OrgQuestion>
+
+
+
+<OrgQuestion ORGQ_ID="Q458">
+    <OrgQSubject>Traffic violations..</OrgQSubject>
+    <tr_OrgQSubject>نقض ترافیک ..</tr_OrgQSubject>
+    <PE_OrgQSubject>نقض قوانین ترافیک ..</PE_OrgQSubject>
+    <MT_EN_OrgQSubject>Traffic violation violation ..</MT_EN_OrgQSubject>
+    <OrgQBody>i got a fine of QR-500 for overspeed can i reduce it?</OrgQBody>
+    <tr_OrgQBody>من یک جریمه از QR-500 برای سرعت بالا می توانم آن را کاهش دهم؟</tr_OrgQBody>
+    <PE_OrgQBody>من یک جریمه QR-500 برای سرعت بالا گرفتم، می توانم آن را کاهش دهم؟</PE_OrgQBody>
+    <MT_EN_OrgQBody>I got a QR-500 fine for high speed, can I reduce it?</MT_EN_OrgQBody>
+</OrgQuestion>
+
+
+
+<OrgQuestion ORGQ_ID="Q459">
+    <OrgQSubject>Lawyers</OrgQSubject>
+    <tr_OrgQSubject>وکلا</tr_OrgQSubject>
+    <PE_OrgQSubject>وکل</PE_OrgQSubject>
+    <MT_EN_OrgQSubject>General</MT_EN_OrgQSubject>
+    <OrgQBody>Hello all; Can someone please recommend a law firm that can be trusted to deal with family/custody law? Thank you</OrgQBody>
+    <tr_OrgQBody>سلام به همگی؛ آیا کسی میتواند یک شرکت حقوقی پیشنهاد کند که بتواند با خانواده / قانون نگهداری ازدواج مواجه شود؟ متشکرم</tr_OrgQBody>
+    <PE_OrgQBody>سلام به همگی؛ آیا کسی میتواند یک شرکت حقوقی پیشنهاد کند که برای قانون خانواده / نگهداری قابل اعتماد باشد؟ متشکرم</PE_OrgQBody>
+    <MT_EN_OrgQBody>Hello everyone; Can anyone offer a law firm that is trusted for family law / maintenance? Thank you</MT_EN_OrgQBody>
+</OrgQuestion>
+
+
+
+<OrgQuestion ORGQ_ID="Q460">
+    <OrgQSubject>to all nurses; i need some advice..</OrgQSubject>
+    <tr_OrgQSubject>به همه پرستاران؛ من نیاز به مشاوره دارم</tr_OrgQSubject>
+    <PE_OrgQSubject>به همه پرستاران؛ من نیاز به مشاوره دارم</PE_OrgQSubject>
+    <MT_EN_OrgQSubject>All nurses; I need advice</MT_EN_OrgQSubject>
+    <OrgQBody>about dataflow PSV; do they issue completion report? coz; i checked my status yesterday and all my credentials was already completed.</OrgQBody>
+    <tr_OrgQBody>درباره PSV dataflow؛ آیا آنها گزارش تکمیل می کنند؟ coz؛ دیروز وضعیتم را بررسی کردم و تمام مدارک تحصیلی من به پایان رسید.</tr_OrgQBody>
+    <PE_OrgQBody>درباره PSV dataflow؛ آیا آنها گزارش اتمام می دهند؟ چون؛ دیروز وضعیتم را چک کردم و تمام مدارک من تکمیل شده بودند.</PE_OrgQBody>
+    <MT_EN_OrgQBody>About PSV dataflow; Do they finish the report? Because yesterday I checked my status and all my documents were completed.</MT_EN_OrgQBody>
+</OrgQuestion>
+
+
+
+<OrgQuestion ORGQ_ID="Q461">
+    <OrgQSubject>New version</OrgQSubject>
+    <tr_OrgQSubject>نسخه جدید</tr_OrgQSubject>
+    <PE_OrgQSubject>نسخه جدید</PE_OrgQSubject>
+    <MT_EN_OrgQSubject>The new version</MT_EN_OrgQSubject>
+    <OrgQBody>I want Qatar living update version</OrgQBody>
+    <tr_OrgQBody>من نسخه به روز رسانی قطر زندگی را می خواهم</tr_OrgQBody>
+    <PE_OrgQBody>من نسخه به روز رسانی قطر زندگی را می خواهم</PE_OrgQBody>
+    <MT_EN_OrgQBody>I want the Qatar Life Update version</MT_EN_OrgQBody>
+</OrgQuestion>
+
+
+
+<OrgQuestion ORGQ_ID="Q462">
+    <OrgQSubject>family visa</OrgQSubject>
+    <tr_OrgQSubject>ویزای خانوادگی</tr_OrgQSubject>
+    <PE_OrgQSubject>ویزای خانوادگی</PE_OrgQSubject>
+    <MT_EN_OrgQSubject>Family visa</MT_EN_OrgQSubject>
+    <OrgQBody>what is the new procedures and conditions for family status in Qatar or recruiting wife..??</OrgQBody>
+    <tr_OrgQBody>شرایط جدید و شرایط خانوادگی در قطر و یا استخدام همسر چه چیزی است؟</tr_OrgQBody>
+    <PE_OrgQBody>شرایط جدید و شرایط خانوادگی در قطر و یا استخدام همسر چه چیزی است؟</PE_OrgQBody>
+    <MT_EN_OrgQBody>What are the new terms and conditions of family in Qatar or the employment of a spouse?</MT_EN_OrgQBody>
+</OrgQuestion>
+
+
+
+<OrgQuestion ORGQ_ID="Q463">
+    <OrgQSubject>Supervisor and General supervisor Profession</OrgQSubject>
+    <tr_OrgQSubject>سرپرست و سرپرست عمومی حرفه ای</tr_OrgQSubject>
+    <PE_OrgQSubject>سرپرست و سرپرست عمومی حرفه ای</PE_OrgQSubject>
+    <MT_EN_OrgQSubject>Superintendent and Professional Superintendent</MT_EN_OrgQSubject>
+    <OrgQBody>Supervisor profession and General Supervisor profession in Qatar ID; which is eligible for family permanent visa ????</OrgQBody>
+    <tr_OrgQBody>سرپرست حرفه ای و سرپرست حرفه ای در قطر؛ که واجد شرایط برای ویزای دائم خانواده است؟</tr_OrgQBody>
+    <PE_OrgQBody>در قطر از ببن سرپرست حرفه ای و سرپرست عمومی حرفه ای ؛ کدام واجد شرایط برای ویزای دائم خانواده است؟</PE_OrgQBody>
+    <MT_EN_OrgQBody>In Qatar from Professional Career and Professional Superintendent; Who is eligible for a permanent family visa?</MT_EN_OrgQBody>
+</OrgQuestion>
+
+
+
+<OrgQuestion ORGQ_ID="Q464">
+    <OrgQSubject>Bank account-commercial bank</OrgQSubject>
+    <tr_OrgQSubject>حساب بانکی بانک تجاری</tr_OrgQSubject>
+    <PE_OrgQSubject>حساب بانکی بانک تجاری</PE_OrgQSubject>
+    <MT_EN_OrgQSubject>Bank Commercial Bank Account</MT_EN_OrgQSubject>
+    <OrgQBody>Kindly get me any contact number so as to start a salary account in commercaial bank my no:33285633</OrgQBody>
+    <tr_OrgQBody>لطفا هر گونه شماره تماس با من را برای شروع حساب حقوق و دستمزد در بانک های تجاری من شماره من: 33285633</tr_OrgQBody>
+    <PE_OrgQBody>لطفا هر گونه شماره تماس با من را برای باز کردن حساب حقوق و دستمزد در بانک های تجاری به من معرفی کنید شماره من: 33285633</PE_OrgQBody>
+    <MT_EN_OrgQBody>Please provide me with any contact details for opening a salary account in commercial banks. My number: 33285633</MT_EN_OrgQBody>
+</OrgQuestion>
+
+
+
+<OrgQuestion ORGQ_ID="Q465">
+    <OrgQSubject>QID</OrgQSubject>
+    <tr_OrgQSubject>QID</tr_OrgQSubject>
+    <PE_OrgQSubject>QID</PE_OrgQSubject>
+    <MT_EN_OrgQSubject>QID</MT_EN_OrgQSubject>
+    <OrgQBody>Anyone tell me how many days for QID to renew?</OrgQBody>
+    <tr_OrgQBody>هر کس به من بگویید چند روز برای QID تجدید؟</tr_OrgQBody>
+    <PE_OrgQBody>کسی به من بگوید چند روز برای تمدید QID لازم است؟</PE_OrgQBody>
+    <MT_EN_OrgQBody>Someone tells me how many days is required to extend QID?</MT_EN_OrgQBody>
+</OrgQuestion>
+
+
+
+<OrgQuestion ORGQ_ID="Q466">
+    <OrgQSubject>visit visa extension</OrgQSubject>
+    <tr_OrgQSubject>مراجعه به ویزا را ببینید</tr_OrgQSubject>
+    <PE_OrgQSubject>تمدید ویزا</PE_OrgQSubject>
+    <MT_EN_OrgQSubject>visa renewal</MT_EN_OrgQSubject>
+    <OrgQBody>hi; I would like to know the maximum no of days for visit visa? i am n visit visa from this aug.i have visa till jan end..will i be able to extend it more than that? If so; how many months?</OrgQBody>
+    <tr_OrgQBody>سلام؛ من می خواهم حداکثر تعداد روزها را برای بازدید از ویزا بشناسم؟ من ویزای بازدید از این aug.i ویزای تا ژانویه پایان خواهد داشت .. آیا می توانم آن را گسترش بیش از آن؟ اگر چنین چند ماه؟</tr_OrgQBody>
+    <PE_OrgQBody>سلام؛ من می خواهم حداکثر تعداد روزها را برای بازدید از ویزا بدانم؟ من ویزای بازدید از این aug.i ویزای تا ژانویه مهلت خواهد داشت .. آیا می توانم آن را بیش از آن تمدید کنم؟ اگر چنین است، چند ماه؟</PE_OrgQBody>
+    <MT_EN_OrgQBody>Hello, I want to know the maximum number of days to visit a visa? I will have a visa to visit this aug.i visa until January. Can I extend it further? If so, how many months?</MT_EN_OrgQBody>
+</OrgQuestion>
+
+
+
+<OrgQuestion ORGQ_ID="Q467">
+    <OrgQSubject>Need a Visit OR Business Visa for 3 Month (Indian National)</OrgQSubject>
+    <tr_OrgQSubject>نیاز به یک ویزای تجاری یا کسب و کار برای 3 ماه (ملی هند)</tr_OrgQSubject>
+    <PE_OrgQSubject>نیاز به یک ویزای تجاری یا کسب و کار برای 3 ماه (ملیت هند)</PE_OrgQSubject>
+    <MT_EN_OrgQSubject>Need a business or business visa for 3 months (Indian nationality)</MT_EN_OrgQSubject>
+    <OrgQBody>hi Need an Visit or Business visa for Indian national and want stay for 3 month; and how much it cost;</OrgQBody>
+    <tr_OrgQBody>سلام به نیویورک ویزا ویزای تجاری و یا کسب و کار مراجعه کنید و می خواهید برای مدت 3 ماه؛ و چقدر هزینه دارد</tr_OrgQBody>
+    <PE_OrgQBody>سلام ویزای تجاری و یا کسب و کار مراجعه لازم دارم و می خواهم برای مدت 3 ماه بمانم؛ چقدر هزینه دارد</PE_OrgQBody>
+    <MT_EN_OrgQBody>Hi, I need a business visa or business, and I want to stay for 3 months; how much does it cost?</MT_EN_OrgQBody>
+</OrgQuestion>
+
+
+
+<OrgQuestion ORGQ_ID="Q468">
+    <OrgQSubject>HOW TO GET AN UMRAH VISA FROM DOHA</OrgQSubject>
+    <tr_OrgQSubject>چگونه ویزا UMRAH را از DOHA دریافت کنید</tr_OrgQSubject>
+    <PE_OrgQSubject>چگونه ویزا UMRAH را از DOHA دریافت کنید</PE_OrgQSubject>
+    <MT_EN_OrgQSubject>How to get UMRAH Visa from DOHA</MT_EN_OrgQSubject>
+    <OrgQBody>Hi All; How to get an Umrah visa from doha. I want to travel by plane. And perform Umrah by my self. I would be thankful for any response given Thanks</OrgQBody>
+    <tr_OrgQBody>سلام به همه؛ نحوه دریافت ویزای عمره از دوحه. من می خواهم با هواپیما سفر کنم و انجام امم توسط خودم. من برای هر پاسخی که از طریق تشکر از شما سپاسگزارم تشکر می کنم</tr_OrgQBody>
+    <PE_OrgQBody>سلام به همه؛ نحوه دریافت ویزای عمره از دوحه چگونه است. من می خواهم با هواپیما سفر کنم و انجام امم توسط خودم. من برای هر پاسخی از شما  تشکر می کنم</PE_OrgQBody>
+    <MT_EN_OrgQBody>Hi everyone; how to get Umrah visa from Doha. I want to travel by plane and do it myself. I thank you for any reply</MT_EN_OrgQBody>
+</OrgQuestion>
+
+
+
+<OrgQuestion ORGQ_ID="Q469">
+    <OrgQSubject>UPDA exam while your under family visit visa</OrgQSubject>
+    <tr_OrgQSubject>آزمون UPDA در حالی که شما تحت خانواده بازدید ویزا</tr_OrgQSubject>
+    <PE_OrgQSubject>آزمون UPDA در حالی که شما تحت ویرا بازدید خانواده هستید</PE_OrgQSubject>
+    <MT_EN_OrgQSubject>UPDA test while you are visiting Vieira's family visit</MT_EN_OrgQSubject>
+    <OrgQBody>Hello;i just came back in Qatar and learned that needs UPDA certificate for engineers to apply.Can i take UPDA exam while im still under family visit visa? Pls advise.</OrgQBody>
+    <tr_OrgQBody>سلام؛ من فقط در قطر آمدم و متوجه شدم که نیاز به گواهی UPDA برای مهندسین دارد. آیا می توانم امتحان UPDA را در حالی که من هنوز در ویزای خانوادگی دیدم؟ Pls مشاوره</tr_OrgQBody>
+    <PE_OrgQBody>سلام؛ من تازه قطر آمدم و متوجه شدم که نیاز به گواهی UPDA برای مهندسی دارم. آیا می توانم امتحان UPDA را در حالی که من هنوز تحت ویزای خانوادگی هستم. لطفا مشاوره بدهید</PE_OrgQBody>
+    <MT_EN_OrgQBody>Hi, I just came to Qatar and realized that I needed a UPDA certificate for engineering. Can I get an UPDA exam while I'm still under a family visa. Please give advice</MT_EN_OrgQBody>
+</OrgQuestion>
+
+
+
+<OrgQuestion ORGQ_ID="Q470">
+    <OrgQSubject>Family Visit Visa</OrgQSubject>
+    <tr_OrgQSubject>ویزای خانواده بازدید کنید</tr_OrgQSubject>
+    <PE_OrgQSubject>ویزای بازدید خانواده</PE_OrgQSubject>
+    <MT_EN_OrgQSubject>Family visit visa</MT_EN_OrgQSubject>
+    <OrgQBody>Hello Everyone; I am working in Qatar as Accountant; i want to bring my wife and 4 months old son to Qatar on visit visa. Please tell me the procedure to follow.</OrgQBody>
+    <tr_OrgQBody>سلام همه؛ من در قطر به عنوان حسابدار کار می کنم؛ من می خواهم همسر و پسر 4 ماهه ام را در قطر دیدار کنم. لطفا مراحل زیر را دنبال کنید.</tr_OrgQBody>
+    <PE_OrgQBody>سلام همه؛ من در قطر به عنوان حسابدار کار می کنم؛ من می خواهم همسر و پسر 4 ماهه ام را تحت ویزا بازدید به قطر بیاورم. لطفا مراحل لازم را به من بگویید.</PE_OrgQBody>
+    <MT_EN_OrgQBody>Hi everyone; I work as an accountant in Qatar; I would like to bring my 4-month-old son and son to visit Qatar under a visa. Please tell me the steps you need.</MT_EN_OrgQBody>
+</OrgQuestion>
+
+
+
+<OrgQuestion ORGQ_ID="Q471">
+    <OrgQSubject>Would 10000 QAR including accomodation a good salary</OrgQSubject>
+    <tr_OrgQSubject>آیا 10000 QAR شامل محل اقامت خوب است</tr_OrgQSubject>
+    <PE_OrgQSubject>آیا 10000 QAR به علاوه ی محل اقامت خوب حقوق است</PE_OrgQSubject>
+    <MT_EN_OrgQSubject>Is 10000 QAR plus good salary</MT_EN_OrgQSubject>
+    <OrgQBody>I got an offer in QA with 10000 QAR including accommodation.I am single. I am thinking of getting a car second hand also.So what what be your suggestion.</OrgQBody>
+    <tr_OrgQBody>من پیشنهاد در QA با 10000 QAR شامل accommodation.I من تک. من فکر میکنم که دست دوم ماشین هم استفاده شود. بنابراین پیشنهاد شما چیه؟</tr_OrgQBody>
+    <PE_OrgQBody>من پیشنهاد در QA با 10000 QAR شامل اقامت گرفتم. من مجرد هستم. من فکر میکنم که ماشین دست دوم هم بگیرم. بنابراین پیشنهاد شما چیه؟</PE_OrgQBody>
+    <MT_EN_OrgQBody>I've offered accommodation in QA with 10,000 QARs. I am single. I think I'll get a second hand car. So what are your suggestions?</MT_EN_OrgQBody>
+</OrgQuestion>
+
+
+
+<OrgQuestion ORGQ_ID="Q472">
+    <OrgQSubject>Family RP Cancellation Procedure</OrgQSubject>
+    <tr_OrgQSubject>روش RP لغو خانواده</tr_OrgQSubject>
+    <PE_OrgQSubject>روش لغو RP خانواده</PE_OrgQSubject>
+    <MT_EN_OrgQSubject>RP Family Cancellation Method</MT_EN_OrgQSubject>
+    <OrgQBody>Since i am going finally from qatar; i want to cancel the RP of my Family who are under my sponsorship. Can anyone suggest what is the procedure ?</OrgQBody>
+    <tr_OrgQBody>از آنجا که من در نهایت از قطر می روم؛ من می خواهم RP خانواده ام را که تحت حمایت من هستند لغو کنم. آیا کسی می تواند این روش را پیش بینی کند؟</tr_OrgQBody>
+    <PE_OrgQBody>از آنجا که من بلاخره از قطر می روم؛ من می خواهم RP خانواده ام را که تحت حمایت من هستند لغو کنم. آیا کسی می تواند نحوه کار را پیش بینی کند؟</PE_OrgQBody>
+    <MT_EN_OrgQBody>Since I'm finally leaving Qatar, I want to cancel my family's RP that is under my protection. Can anyone anticipate how to work?</MT_EN_OrgQBody>
+</OrgQuestion>
+
+
+
+<OrgQuestion ORGQ_ID="Q473">
+    <OrgQSubject>Good Bank in Doha for personal banking</OrgQSubject>
+    <tr_OrgQSubject>بانک مرکزی در دوحه برای بانکی شخصی</tr_OrgQSubject>
+    <PE_OrgQSubject>بانک خوب در دوحه برای بانکی شخصی</PE_OrgQSubject>
+    <MT_EN_OrgQSubject>A good bank in Doha for a personal bank</MT_EN_OrgQSubject>
+    <OrgQBody>Which bank is the good bank for personal banking i am looking for a bank which provides good customer service. I had experience with Commercial Bank and Doha Bank; both are not so great</OrgQBody>
+    <tr_OrgQBody>کدام بانک بانک مناسب برای بانکی شخصی است، من به دنبال یک بانک است که خدمات مشتریان را فراهم می کند. تجربه داشتم با بانک تجاری و بانک دوحه؛ هر دو خیلی بزرگ نیستند</tr_OrgQBody>
+    <PE_OrgQBody>کدام بانک مناسب برای کار بانکی شخصی است، من به دنبال یک بانک هستم که خدمات مشتریان خوب داشته باشد. با بانک تجاری و بانک دوحه تجربه دارم؛ هیچکدام خوب نبودند</PE_OrgQBody>
+    <MT_EN_OrgQBody>Which bank is suitable for personal banking, I am looking for a bank that has good customer service. I have business with the Bank of Doha and the Bank; none were good</MT_EN_OrgQBody>
+</OrgQuestion>
+
+
+
+<OrgQuestion ORGQ_ID="Q474">
+    <OrgQSubject>Corniche fire works</OrgQSubject>
+    <tr_OrgQSubject>آتش سوزی Corniche کار می کند</tr_OrgQSubject>
+    <PE_OrgQSubject>آتش بازی Corniche</PE_OrgQSubject>
+    <MT_EN_OrgQSubject>Corniche fireworks</MT_EN_OrgQSubject>
+    <OrgQBody>Whats the scheduled time for corniche fire works?</OrgQBody>
+    <tr_OrgQBody>زمان برنامه ریزی برای آتش بازی قورباغه چیست؟</tr_OrgQBody>
+    <PE_OrgQBody>زمان برنامه ریزی شده برای آتش بازی corniche چیست؟</PE_OrgQBody>
+    <MT_EN_OrgQBody>What is the planned time for corniche fireworks?</MT_EN_OrgQBody>
+</OrgQuestion>
+
+
+
+<OrgQuestion ORGQ_ID="Q475">
+    <OrgQSubject>Wrong Signature</OrgQSubject>
+    <tr_OrgQSubject>امضاء نادرست</tr_OrgQSubject>
+    <PE_OrgQSubject>امضاء نادرست</PE_OrgQSubject>
+    <MT_EN_OrgQSubject>Invalid signature</MT_EN_OrgQSubject>
+    <OrgQBody>I got my Qatar RP. But the signature in back of MY RP is not mine. Somebody written my name instead. please inform me; will it be a problem for me</OrgQBody>
+    <tr_OrgQBody>من قطر RP را کردم اما امضا در پشت MY RP من نیست. کسی به جای من نامی نوشته. لطفا به من اطلاع دهید؛ برای من مشکل خواهد بود</tr_OrgQBody>
+    <PE_OrgQBody>من RP قطرم را گرفتم اما امضا در پشت RP مال من نیست. کسی به جای من نامم را نوشته. لطفا به من اطلاع دهید؛ آیا برای من مشکلی خواهد داشت</PE_OrgQBody>
+    <MT_EN_OrgQBody>I got RP Damascus, but I'm not signed by RP. Someone wrote my name instead of me. Please let me know; will it be a problem for me?</MT_EN_OrgQBody>
+</OrgQuestion>
+
+
+
